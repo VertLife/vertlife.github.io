@@ -9,12 +9,12 @@ table td {
  text-align:left;
 }
 .hero-unit {
-  background-image:url('/images/BirdTreeLarge.png');
+  background-image:url('/images/hero.jpg');
   opacity: 0.4;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
-  height:300px;
+  
 }
 
 h1.hero-text {
