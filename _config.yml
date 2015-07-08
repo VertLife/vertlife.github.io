@@ -1,1 +1,7 @@
+name: BirdTree.org
+highlighter: pygments
 markdown: kramdown
+kramdown:
+  input: GFM
+pygments: true
+permalink: pretty
