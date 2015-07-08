@@ -14,7 +14,7 @@ table td {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
-  
+  height: 600px;  
 }
 
 h1.hero-text {
