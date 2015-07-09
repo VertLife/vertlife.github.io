@@ -1,16 +1,104 @@
 ---
 layout: default
-title: FAQ
+title: Team
 weight: 6
 ---
 
-FAQ
+Team
 ===
 
-1. __Have you got/should I use a consensus tree?__:
+# header #
+Principal investigators
 
-2. __Chains not mixing when using distributions of the bird tree in BayesTraits__:
+# subheader and picture #
+Walter Jetz
+Yale University
+http://jetzlab.yale.edu/people/walter-jetz
 
-> We have received reports, courtesy of Chris Venditti and Andrew Meade, that some BayesTraits users cannot get chains to mix properly when using samples of the bird tree. This happens when there is a lack of resolution in the tree because the likelihood latches on to a particular relationship (or resolution) where there is a good fit to the comparative data.  
-> This is not a bug with BayesTraits. It is a general problem that can arise if some resolutions of a tree fit the comparative data better than others. It can occur with any tree distribution but is likely to be particularly problematic when using samples from the “All species” bird trees. This is because of the inherently greater topological uncertainty associated with the placement of “missing” species such that there is likely to be unusually high variation in the fit to the comparative data among trees. We suggest if this problem occurs and problematic trees cannot be readily identified, that users consider using samples from the sequenced species tree distributions. 
+# subheader and picture #
+Rob Guralnick
+University of Florida; Florida Museum of Natural History
+https://sites.google.com/site/robgur/
 
+# subheader and picture #
+Rauri Bowie
+University of California, Berkeley; Museum of Vertebrate Zoology
+https://ib.berkeley.edu/labs/bowie/about_rauri.html
+
+# subheader and picture #
+Alex Pyron
+George Washington University
+https://biology.columbian.gwu.edu/r-alexander-pyron
+
+# subheader and picture #
+Jake Esselstyn
+Louisiana State University; Museum of Natural Science
+http://www.museum.lsu.edu/esselstyn/
+
+# header #
+Other team members
+
+# subheader and picture #
+David Wake
+University of California, Berkeley; Museum of Vertebrate Zoology
+https://ib.berkeley.edu/labs/wake/wakelab.htm
+
+# subheader and picture #
+Michelle Koo
+University of California, Berkeley; Museum of Vertebrate Zoology
+http://mvz.berkeley.edu/Informatics_Lab.html
+
+# subheader and picture #
+Nathan Upham
+Yale University
+http://jetzlab.yale.edu/people/nathan-upham
+
+# header #
+Key collaborators
+
+# subheader (no picture)#
+Jacques Gauthier
+Yale University, Peabody Museum of Natural History
+http://peabody.yale.edu/collections/vertebrate-paleontology/jacques-gauthier
+
+# subheader (no picture)#
+Gavin Thomas
+University of Sheffield
+https://www.shef.ac.uk/aps/staff-and-students/acadstaff/thomas
+
+# subheader (no picture)#
+Rob Freckleton
+University of Sheffield
+https://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton
+
+# subheader (no picture)#
+Shai Meiri
+Tel Aviv University
+http://shaimeirilab.weebly.com/
+
+# subheader (no picture)#
+Joseph Tobias
+Oxford University
+http://www.zoo.ox.ac.uk/people/view/tobias_j.htm
+
+# subheader (no picture)#
+Robert Ricklefs
+University of Missouri at St. Louis
+http://www.umsl.edu/~ricklefsr/
+
+# subheader (no picture)#
+James Rosindell
+Imperial College London
+http://www.imperial.ac.uk/people/j.rosindell
+
+Open Tree of Life
+http://blog.opentreeoflife.org/
+
+EOL’s TraitBank
+http://eol.org/info/516
+
+Phentoype RCN
+http://www.phenotypercn.org/
+
+Yale Peabody Museum
+http://peabody.yale.edu/
