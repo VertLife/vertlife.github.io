@@ -15,9 +15,10 @@ VertLife
 
 <iframe width="640" height="400" src="http://www.onezoom.org/embeded_tetrapods.htm?view=1&signs=1&common=1&polytomy=3&ltype=2&hltype=2&font=helvetica&colour=3&init=1"></iframe>
 
-![National Science Foundation](/images/nsf.png)
+![National Science Foundation](/images/nsf.jpg)
+![Yale University](/images/yale.png)
 ![University of California Berkeley](/images/berkeley.png)
-![University of Florida](/images/uf.png)
+![University of Florida](/images/uf.jpg)
 ![George Washington University](/images/gw.png)
 
 < links to NEWS page showing key developments >
