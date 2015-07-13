@@ -73,14 +73,14 @@ http://www.umsl.edu/~ricklefsr/
 Imperial College London
 http://www.imperial.ac.uk/people/j.rosindell
 
-Open Tree of Life
+## Open Tree of Life ##
 http://blog.opentreeoflife.org/
 
-EOL’s TraitBank
+## EOL’s TraitBank ##
 http://eol.org/info/516
 
-Phentoype RCN
+## Phentoype RCN ##
 http://www.phenotypercn.org/
 
-Yale Peabody Museum
+## Yale Peabody Museum ##
 http://peabody.yale.edu/
