@@ -7,87 +7,69 @@ weight: 6
 Team
 ===
 
-# header #
-Principal investigators
+# Principal investigators #
 
-# subheader and picture #
-Walter Jetz
+## Walter Jetz ##
 Yale University
 http://jetzlab.yale.edu/people/walter-jetz
 
-# subheader and picture #
-Rob Guralnick
+## Rob Guralnick ##
 University of Florida; Florida Museum of Natural History
 https://sites.google.com/site/robgur/
 
-# subheader and picture #
-Rauri Bowie
+## Rauri Bowie ##
 University of California, Berkeley; Museum of Vertebrate Zoology
 https://ib.berkeley.edu/labs/bowie/about_rauri.html
 
-# subheader and picture #
-Alex Pyron
+## Alex Pyron ##
 George Washington University
 https://biology.columbian.gwu.edu/r-alexander-pyron
 
-# subheader and picture #
-Jake Esselstyn
+## Jake Esselstyn ##
 Louisiana State University; Museum of Natural Science
 http://www.museum.lsu.edu/esselstyn/
 
-# header #
-Other team members
+## Other team members ##
 
-# subheader and picture #
-David Wake
+## David Wake ##
 University of California, Berkeley; Museum of Vertebrate Zoology
 https://ib.berkeley.edu/labs/wake/wakelab.htm
 
-# subheader and picture #
-Michelle Koo
+## Michelle Koo ##
 University of California, Berkeley; Museum of Vertebrate Zoology
 http://mvz.berkeley.edu/Informatics_Lab.html
 
-# subheader and picture #
-Nathan Upham
+## Nathan Upham ##
 Yale University
 http://jetzlab.yale.edu/people/nathan-upham
 
-# header #
-Key collaborators
+# Key collaborators #
 
-# subheader (no picture)#
-Jacques Gauthier
+## Jacques Gauthier ##
 Yale University, Peabody Museum of Natural History
 http://peabody.yale.edu/collections/vertebrate-paleontology/jacques-gauthier
 
-# subheader (no picture)#
-Gavin Thomas
+## Gavin Thomas ##
 University of Sheffield
 https://www.shef.ac.uk/aps/staff-and-students/acadstaff/thomas
 
-# subheader (no picture)#
-Rob Freckleton
+## Rob Freckleton ##
 University of Sheffield
 https://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton
 
-# subheader (no picture)#
-Shai Meiri
+## Shai Meiri ##
 Tel Aviv University
 http://shaimeirilab.weebly.com/
 
-# subheader (no picture)#
-Joseph Tobias
+## Joseph Tobias ##
 Oxford University
 http://www.zoo.ox.ac.uk/people/view/tobias_j.htm
 
-# subheader (no picture)#
-Robert Ricklefs
+## Robert Ricklefs ##
 University of Missouri at St. Louis
 http://www.umsl.edu/~ricklefsr/
 
-# subheader (no picture)#
-James Rosindell
+## James Rosindell ##
 Imperial College London
 http://www.imperial.ac.uk/people/j.rosindell
 
