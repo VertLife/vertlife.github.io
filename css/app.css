@@ -14,7 +14,11 @@ table td {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
-  height: 600px;  
+  height: 300px;  
+}
+
+.footer {
+  background-color: #111111;
 }
 
 h1.hero-text {
