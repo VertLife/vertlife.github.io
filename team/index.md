@@ -3,10 +3,6 @@ layout: default
 title: Team
 weight: 6
 ---
-
-Team
-===
-
 # Principal investigators #
 
 ## Walter Jetz ##
