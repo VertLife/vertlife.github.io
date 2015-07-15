@@ -2,8 +2,10 @@
 ---
 
 body {
-  padding-top: 50px;
-  height:100%;
+  margin:0;
+	padding:0;
+	padding-top: 50px;
+	height:100%;
 }
 table td {
  padding: 5px;
