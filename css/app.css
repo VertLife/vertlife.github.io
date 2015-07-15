@@ -23,14 +23,15 @@ table td {
 }
 
 .main {
+    position: relative;
     min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    /* Negative indent footer by it's height */
-    margin: 0 auto -150px;  
 }
 
 .footer {
+  position: absolute;
+  bottom:0;
+  width: 100%;
+  left:0;
   background-color: #999999;
   height: 150px;
 }
