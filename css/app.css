@@ -69,7 +69,7 @@ h1.hero-text {
 }
 .logos {
   max-width:800px; 
-  text-align:center;}
+  margin: auto;}
   
 .listsContainer{margin-left:5em}
 .listTable{border: 1pt solid #bbb;}
