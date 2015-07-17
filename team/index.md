@@ -5,30 +5,20 @@ weight: 6
 ---
 # Principal investigators #
 
-## Walter Jetz ##
+## [Walter Jetz](http://jetzlab.yale.edu/people/walter-jetz)
 Yale University
 
-http://jetzlab.yale.edu/people/walter-jetz
-
-## Rob Guralnick ##
+## [Rob Guralnick](https://sites.google.com/site/robgur/)
 University of Florida; Florida Museum of Natural History
 
-https://sites.google.com/site/robgur/
-
-## Rauri Bowie ##
+## [Rauri Bowie](https://ib.berkeley.edu/labs/bowie/about_rauri.html)
 University of California, Berkeley; Museum of Vertebrate Zoology
 
-https://ib.berkeley.edu/labs/bowie/about_rauri.html
-
-## Alex Pyron ##
+## [Alex Pyron](https://biology.columbian.gwu.edu/r-alexander-pyron)
 George Washington University
 
-https://biology.columbian.gwu.edu/r-alexander-pyron
-
-## Jake Esselstyn ##
+## [Jake Esselstyn](http://www.museum.lsu.edu/esselstyn/)
 Louisiana State University; Museum of Natural Science
-
-http://www.museum.lsu.edu/esselstyn/
 
 # Other team members #
 
