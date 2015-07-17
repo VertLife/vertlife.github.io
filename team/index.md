@@ -21,47 +21,36 @@ weight: 4
 | Berkeley; Museum of  	| Berkeley; Museum of   	|   	|
 | Vertebrate Zoology  	| Vertebrate Zoology  	|   	|
 
-##### 
-
-  
-
-##### 
-
- 
-
-##### 
-
-
 
 # Key collaborators #
 
-##### [Jacques Gauthier](http://peabody.yale.edu/collections/vertebrate-paleontology/jacques-gauthier)
+#### [Jacques Gauthier](http://peabody.yale.edu/collections/vertebrate-paleontology/jacques-gauthier)
 Yale University, Peabody Museum of Natural History
 
-##### [Gavin Thomas](https://www.shef.ac.uk/aps/staff-and-students/acadstaff/thomas)
+#### [Gavin Thomas](https://www.shef.ac.uk/aps/staff-and-students/acadstaff/thomas)
 University of Sheffield
 
-##### [Rob Freckleton](https://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton)
+#### [Rob Freckleton](https://www.shef.ac.uk/aps/staff-and-students/acadstaff/freckleton)
 University of Sheffield
 
-##### [Shai Meiri](http://shaimeirilab.weebly.com/)
+#### [Shai Meiri](http://shaimeirilab.weebly.com/)
 Tel Aviv University
 
-##### [Joseph Tobias](http://www.zoo.ox.ac.uk/people/view/tobias_j.htm)
+#### [Joseph Tobias](http://www.zoo.ox.ac.uk/people/view/tobias_j.htm)
 Oxford University
 
-##### [Robert Ricklefs](http://www.umsl.edu/~ricklefsr/)
+#### [Robert Ricklefs](http://www.umsl.edu/~ricklefsr/)
 University of Missouri at St. Louis
 
-##### [James Rosindell](http://www.imperial.ac.uk/people/j.rosindell)
+#### [James Rosindell](http://www.imperial.ac.uk/people/j.rosindell)
 Imperial College London
 
 # Organizations #
 
-##### [Open Tree of Life](http://blog.opentreeoflife.org/)
+#### [Open Tree of Life](http://blog.opentreeoflife.org/)
 
-##### [EOL’s TraitBank](http://eol.org/info/516)
+#### [EOL’s TraitBank](http://eol.org/info/516)
 
-##### [Phentoype RCN](http://www.phenotypercn.org/)
+#### [Phentoype RCN](http://www.phenotypercn.org/)
 
-##### [Yale Peabody Museum](http://peabody.yale.edu/)
+#### [Yale Peabody Museum](http://peabody.yale.edu/)
