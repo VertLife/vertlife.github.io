@@ -6,7 +6,7 @@ weight: 4
 # Principal investigators #
 
 ### [Walter Jetz](http://jetzlab.yale.edu/people/walter-jetz)
-![pic](http://vertlife.github.io/images/Walter.jpg)
+![pic](/images/Walter.jpg|width=10px)
 Yale University
 
 ### [Rob Guralnick](https://sites.google.com/site/robgur/)
