@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team
-weight: 6
+weight: 4
 ---
 # Principal investigators #
 
