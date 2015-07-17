@@ -14,17 +14,24 @@ weight: 4
 
 # Other team members #
 
-##### [David Wake](https://ib.berkeley.edu/labs/wake/wakelab.htm)
-<img src="http://vertlife.github.io/images/DBW.jpg" height="100" />
-University of California, Berkeley; Museum of Vertebrate Zoology
+|[David Wake](https://ib.berkeley.edu/labs/wake/wakelab.htm)	|[Michelle Koo](http://mvz.berkeley.edu/Informatics_Lab.html)| [Nate Upham](http://jetzlab.yale.edu/people/nathan-upham) |
+|:-:	|:---:	|:---:	|
+| <img src="http://vertlife.github.io/images/DBW.jpg" height="100" />  	| <img src="http://vertlife.github.io/images/Michelle.jpg" height="100" />  	| <img src="http://vertlife.github.io/images/Nate.jpg" height="100" />  	|
+| University of California,  	| University of California,  	| Yale University  	|
+| Berkeley; Museum of  	| Berkeley; Museum of   	|   	|
+| Vertebrate Zoology  	| Vertebrate Zoology  	|   	|
 
-##### [Michelle Koo](http://mvz.berkeley.edu/Informatics_Lab.html)
-<img src="http://vertlife.github.io/images/Michelle.jpg" height="100" />
-University of California, Berkeley; Museum of Vertebrate Zoology
+##### 
 
-##### [Nate Upham](http://jetzlab.yale.edu/people/nathan-upham)
-<img src="http://vertlife.github.io/images/Nate.jpg" height="100" />
-Yale University
+  
+
+##### 
+
+ 
+
+##### 
+
+
 
 # Key collaborators #
 
