@@ -20,6 +20,4 @@ We are using multi-loci, next generation sequencing techniques to collect new ge
 All data sources will be distributed to users through online interfaces or via application programming interfaces (APIs). These dense, interlinked data will be linked to tools that build on spatial/environmental structures in the [Map of Life](http://www.mol.org) and on [OneZoom](http://www.onezoom.org/) phylogeny visualization software to allow online map- and tree-based data discovery and download. 
   
   
-We aim to demonstrate the utility of the integrated layers through example conservation biogeographic and comparative analyses that will highlight the changes and advance in inference and in predictive ability arising from complete and unbiased global data.  An [example showing species potential representation in biological reserves](http://species.mol.org/pa) highlights how species range sizes may be effectively diminished to their overlap with protected areas.
-
-
+We aim to demonstrate the utility of the integrated layers through example conservation biogeographic and comparative analyses that will highlight the changes and advance in inference and in predictive ability arising from complete and unbiased global data.  An [example showing species potential representation in biological reserves](http://species.mol.org/pa) highlights how the union of data layers can provide spatial assessments of "protectedness" for given species.
