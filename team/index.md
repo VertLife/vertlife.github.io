@@ -10,27 +10,33 @@ weight: 4
 Yale University
 
 ### [Rob Guralnick](https://sites.google.com/site/robgur/)
+<img src="http://vertlife.github.io/images/Rob.png" height="100" />
 University of Florida; Florida Museum of Natural History
 
 ### [Rauri Bowie](https://ib.berkeley.edu/labs/bowie/about_rauri.html)
+<img src="http://vertlife.github.io/images/Rauri.JPG" height="100" />
 University of California, Berkeley; Museum of Vertebrate Zoology
 
 ### [Alex Pyron](https://biology.columbian.gwu.edu/r-alexander-pyron)
+<img src="http://vertlife.github.io/images/Alex.jpg" height="100" />
 George Washington University
 
 ### [Jake Esselstyn](http://www.museum.lsu.edu/esselstyn/)
+<img src="http://vertlife.github.io/images/Jake.png" height="100" />
 Louisiana State University; Museum of Natural Science
 
 # Other team members #
 
 ### [David Wake](https://ib.berkeley.edu/labs/wake/wakelab.htm)
+<img src="http://vertlife.github.io/images/DBW.jpg" height="100" />
 University of California, Berkeley; Museum of Vertebrate Zoology
 
 ### [Michelle Koo](http://mvz.berkeley.edu/Informatics_Lab.html)
-
+<img src="http://vertlife.github.io/images/Michelle.jpg" height="100" />
 University of California, Berkeley; Museum of Vertebrate Zoology
 
-### [Nathan Upham](http://jetzlab.yale.edu/people/nathan-upham)
+### [Nate Upham](http://jetzlab.yale.edu/people/nathan-upham)
+<img src="http://vertlife.github.io/images/Nate.jpg" height="100" />
 Yale University
 
 # Key collaborators #
