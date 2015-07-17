@@ -8,8 +8,8 @@ weight: 4
 | [Walter Jetz](http://jetzlab.yale.edu/people/walter-jetz)  | [Rob Guralnick](https://sites.google.com/site/robgur/)  | [Rauri Bowie](https://ib.berkeley.edu/labs/bowie/about_rauri.html)  |[Alex Pyron](https://biology.columbian.gwu.edu/r-alexander-pyron)   | [Jake Esselstyn](http://www.museum.lsu.edu/esselstyn/)  |
 |:----: |:----: |:----: |:----: |:----: |
 | <img src="http://vertlife.github.io/images/Walter.jpg" height="100" />  | <img src="http://vertlife.github.io/images/Rob.png" height="100" />  | <img src="http://vertlife.github.io/images/Rauri.JPG" height="100" />  | <img src="http://vertlife.github.io/images/Alex.jpg" height="100" />  | <img src="http://vertlife.github.io/images/Jake.png" height="100" />  |
-|        Yale University  |University of Florida| University of California, Berkeley  | George Washington University  | Louisiana State University  |
-
+| Yale University  | University of Florida; | University of California,  | George Washington  | Louisiana State  |
+|   | FLMNH  | Berkeley; MVZ  | University  | University; LSUMNS  |
 
 ### [Walter Jetz](http://jetzlab.yale.edu/people/walter-jetz)
 <img src="http://vertlife.github.io/images/Walter.jpg" height="100" />
