@@ -51,6 +51,8 @@ Imperial College London
 
 #### [EOL’s TraitBank](http://eol.org/info/516)
 
+#### [AmphibiaWeb](http://amphibiaweb.org/)
+
 #### [Phentoype RCN](http://www.phenotypercn.org/)
 
 #### [Yale Peabody Museum](http://peabody.yale.edu/)
