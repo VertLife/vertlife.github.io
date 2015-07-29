@@ -3,7 +3,7 @@ layout: default
 title: Data
 weight: 4
 ---
-#### On this page we will be providing information on our VertLife data sources and jumping-off points for data gathering and assembly, as as well as links to the data products we generate— as they go live.  
+#### On this page we will be providing information on our VertLife data sources and jumping-off points for data gathering and assembly, along with links to the data products that we generate — as they go live.  
 
 #### In progress, please check back regularly!
 
