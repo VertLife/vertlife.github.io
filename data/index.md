@@ -18,9 +18,9 @@ weight: 4
 
 ### Phylogenies
 
-<img src="http://vertlife.github.io/images/Tonini_et_al.gif" height="600px" style="float:right; margin-left: 1em"/>
-
 #### Squamates: Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status
+
+<img src="http://vertlife.github.io/images/Tonini_et_al.gif" height="600px" style="float:right; margin-left: 1em"/>
 
 Citation:
 Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
