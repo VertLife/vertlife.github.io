@@ -4,11 +4,11 @@ title: Publications
 weight: 4
 ---
 
-News
+Vertlife-based publications, 2014-2017
 =================
 
 
-# Walter Jetz #
+## Walter Jetz ##
 
 Ballesteros-Mejia, L., I. J. Kitching, W. Jetz, and J. Beck. (2016). Putting insects on the map: near-global variation in sphingid moth richness along spatial and environmental gradients.  Ecography. 39  DOI: 10.1111/ecog.02438
 
@@ -26,13 +26,13 @@ Tonini, J. F. R., K. H. Beard, R. B. Ferreira, W. Jetz, and R. A. Pyron (2016). 
 
 Wilson, A. M., & W. Jetz (2016). Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions.  PLoS Biology. 14  e1002415 DOI: 10.1371/journal.pbio.1002415
 
-# David Wake #
+## David Wake ##
 
 Feng Y-J, Blackburn DC, Liang D, Hillis DM, Wake DB, Cannatella DC, Zhang P  2017  Phylogenomics reveals rapid, simultaneous diversification of three major clades of Gondwanan frogs at the Cretaceous-Paleogene boundary.  PNAS Status = accepted for publication June 6, 2017; Acknowledgment of Federal Support = Yes; Peer Reviewed = Yes.
 
 Wake DB  2017  Persistent plethodontid themes: species, phylogenies and biogeography.  Herpetologica.  Status = Accepted for publication May 22, 2017; Acknowledgment of Federal Support = Yes; Peer Reviewed = Yes.
 
-# Alex Pyron #
+## Alex Pyron ##
 
 Pyron, R. Alexander, and Frank T. Burbrink. "Contrasting models of parity‐mode evolution in squamate reptiles." Journal of Experimental Zoology Part B: Molecular and Developmental Evolution 324, no. 6 (2015): 467-472.
 
@@ -71,4 +71,20 @@ Pyron, R. Alexander. "Novel Approaches for Phylogenetic Inference from Morpholog
 Pyron, Robert Alexander, Sumaithangi Rajagopalan Ganesh, Amit Sayyed, Vivek Sharma, Van Wallach, and Ruchira Somaweera. "A catalogue and systematic overview of the shield-tailed snakes (Serpentes: Uropeltidae)." Zoosystema 38, no. 4 (2016): 453-506.
 
 Pyron, R. A., A. Arteaga, L. Y. Echevarría, and O. Torres-Carvajal. "A revision and key for the tribe Diaphorolepidini (Serpentes: Dipsadidae) and checklist for the genus Synophis." Zootaxa 4171, no. 2 (2016): 293.
+
+## Nate Upham ##
+
+Accepted. Burgin, C. J., Colella, J. P., and Upham, N. S. How many species of mammals are there? Journal of Mammalogy. 
+
+In Press. (alphabetical by last name) Cooke, S. B. Dávalos, L. M., Mychajliw, A. M., Turvey, S. T., and Upham, N. S. Anthropogenic extinction dominates Holocene declines of West Indian mammals. Annual Review of Ecology, Evolution, and Systematics. Online early.
+
+Upham, N. S. and Borroto-Páez, R. 2017. Molecular phylogeography of endangered Cuban hutias within the Caribbean radiation of capromyid rodents. Journal of Mammalogy 98: 950-963.
+
+Upham, N. S. 2017. Past and present of insular Caribbean mammals: understanding Holocene extinctions to inform modern biodiversity conservation. Journal of Mammalogy 98: 913-917.
+
+Evans, B. J., Upham, N. S., Golding, G. B., Ojeda, R. A., and Ojeda, A. A. 2017. Evolution of the largest mammalian genome. Genome Biology and Evolution 9: 1711-1724. Press: ScienceDaily, CBC Radio, The Molecular Ecologist.
+
+Maestri, R., Monteiro, L. R., Fornel, R., Upham, N. S., Patterson B.D., and Freitas, T.R.O. 2017. The ecology of a continental evolutionary radiation: Is the radiation of sigmodontine rodents adaptive? Evolution 71: 610-632. Press: Evolution Digest.
+
+
 
