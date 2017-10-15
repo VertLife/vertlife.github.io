@@ -26,12 +26,6 @@ Tonini, J. F. R., K. H. Beard, R. B. Ferreira, W. Jetz, and R. A. Pyron (2016). 
 
 Wilson, A. M., & W. Jetz (2016). Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions.  PLoS Biology. 14  e1002415 DOI: 10.1371/journal.pbio.1002415
 
-## David Wake ##
-
-Feng Y-J, Blackburn DC, Liang D, Hillis DM, Wake DB, Cannatella DC, Zhang P  2017  Phylogenomics reveals rapid, simultaneous diversification of three major clades of Gondwanan frogs at the Cretaceous-Paleogene boundary.  PNAS Status = accepted for publication June 6, 2017; Acknowledgment of Federal Support = Yes; Peer Reviewed = Yes.
-
-Wake DB  2017  Persistent plethodontid themes: species, phylogenies and biogeography.  Herpetologica.  Status = Accepted for publication May 22, 2017; Acknowledgment of Federal Support = Yes; Peer Reviewed = Yes.
-
 ## Alex Pyron ##
 
 Pyron, R. Alexander, and Frank T. Burbrink. "Contrasting models of parity‐mode evolution in squamate reptiles." Journal of Experimental Zoology Part B: Molecular and Developmental Evolution 324, no. 6 (2015): 467-472.
@@ -71,6 +65,22 @@ Pyron, R. Alexander. "Novel Approaches for Phylogenetic Inference from Morpholog
 Pyron, Robert Alexander, Sumaithangi Rajagopalan Ganesh, Amit Sayyed, Vivek Sharma, Van Wallach, and Ruchira Somaweera. "A catalogue and systematic overview of the shield-tailed snakes (Serpentes: Uropeltidae)." Zoosystema 38, no. 4 (2016): 453-506.
 
 Pyron, R. A., A. Arteaga, L. Y. Echevarría, and O. Torres-Carvajal. "A revision and key for the tribe Diaphorolepidini (Serpentes: Dipsadidae) and checklist for the genus Synophis." Zootaxa 4171, no. 2 (2016): 293.
+
+## Rob Guralnick ##
+
+## Rauri Bowie ##
+
+## Jake Esselstyn ##
+
+## David Wake ##
+
+Feng Y-J, Blackburn DC, Liang D, Hillis DM, Wake DB, Cannatella DC, Zhang P  2017  Phylogenomics reveals rapid, simultaneous diversification of three major clades of Gondwanan frogs at the Cretaceous-Paleogene boundary.
+
+Wake DB  2017  Persistent plethodontid themes: species, phylogenies and biogeography.  Herpetologica. 
+
+## Michelle Koo ##
+
+## Tim Colston ##
 
 ## Nate Upham ##
 
