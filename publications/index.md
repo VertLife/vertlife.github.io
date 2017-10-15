@@ -10,21 +10,21 @@ News
 
 # Walter Jetz #
 
-	• Ballesteros-Mejia, L., I. J. Kitching, W. Jetz, and J. Beck. (2016). Putting insects on the map: near-global variation in sphingid moth richness along spatial and environmental gradients.  Ecography. 39  DOI: 10.1111/ecog.02438
+Ballesteros-Mejia, L., I. J. Kitching, W. Jetz, and J. Beck. (2016). Putting insects on the map: near-global variation in sphingid moth richness along spatial and environmental gradients.  Ecography. 39  DOI: 10.1111/ecog.02438
 
-	• Domisch, S., Amatulli, G. & W. Jetz (2015). Near-global freshwater-specific environmental variables for biodiversity analyses in 1 km resolution.  Scientific Data. 2  150073 DOI: 10.1038/sdata.2015.73
+Domisch, S., Amatulli, G. & W. Jetz (2015). Near-global freshwater-specific environmental variables for biodiversity analyses in 1 km resolution.  Scientific Data. 2  150073 DOI: 10.1038/sdata.2015.73
 
-	• Domisch, S., Wilson, A.M. & W Jetz (2016). Model‐based integration of observed and expert‐based information for assessing the geographic and environmental distribution of freshwater species. Ecography.   DOI: 10.1111/ecog.01925
+Domisch, S., Wilson, A.M. & W Jetz (2016). Model‐based integration of observed and expert‐based information for assessing the geographic and environmental distribution of freshwater species. Ecography.   DOI: 10.1111/ecog.01925
 
-	• Jarzyna, M. A. & W. Jetz (2016). Detecting the Multiple Facets of Biodiversity.  Trends in Ecology and Evolution. 31  527–538 DOI: 10.1016/j.tree.2016.04.002
+Jarzyna, M. A. & W. Jetz (2016). Detecting the Multiple Facets of Biodiversity.  Trends in Ecology and Evolution. 31  527–538 DOI: 10.1016/j.tree.2016.04.002
 
-	• Kays, R., M. C. Crofoot, W. Jetz & M. Wikelski (2015). Terrestrial animal tracking as an eye on life and planet..  Science. 348  1255642 DOI: 10.1126/science.aaa2478
+Kays, R., M. C. Crofoot, W. Jetz & M. Wikelski (2015). Terrestrial animal tracking as an eye on life and planet..  Science. 348  1255642 DOI: 10.1126/science.aaa2478
 
-	• Keil, P., Storch, D. & W. Jetz (2015). On the decline of biodiversity due to area loss.  Nature Communications. 6  8837 DOI: 10.1038/ncomms9837
+Keil, P., Storch, D. & W. Jetz (2015). On the decline of biodiversity due to area loss.  Nature Communications. 6  8837 DOI: 10.1038/ncomms9837
 
-	• Tonini, J. F. R., K. H. Beard, R. B. Ferreira, W. Jetz, and R. A. Pyron (2016). Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation. DOI: 10.1016/j.biocon.2016.03.039
+Tonini, J. F. R., K. H. Beard, R. B. Ferreira, W. Jetz, and R. A. Pyron (2016). Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation. DOI: 10.1016/j.biocon.2016.03.039
 
-	• Wilson, A. M., & W. Jetz (2016). Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions.  PLoS Biology. 14  e1002415 DOI: 10.1371/journal.pbio.1002415
+Wilson, A. M., & W. Jetz (2016). Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions.  PLoS Biology. 14  e1002415 DOI: 10.1371/journal.pbio.1002415
 
 # David Wake #
 
