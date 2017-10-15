@@ -9,7 +9,7 @@
         <script type="text/javascript" src="/js/jquery.download.js"></script>
         <script type="text/javascript" src="/js/bootstrap.min.js"></script>
         <!--<link rel="stylesheet" href="/{{ site.root }}/css/bootstrap.min.css">-->
-        <link rel="stylesheet" href="http://bootswatch.com/flatly/bootstrap.min.css">
+        <link rel="stylesheet" href="//bootswatch.com/flatly/bootstrap.min.css">
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/app.css">
         <link rel="icon" type="image/png" 
@@ -37,10 +37,12 @@
                   <ul class="nav navbar-nav">
                     {% assign pages = site.pages | sort:"weight"  %}
                     {% for node in pages %}
+                      {% if node.incognito == nil %}
                       {% if page.url == node.url %}
                         <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
                       {% else %}
                         <li><a href="{{node.url}}">{{node.title}}</a></li>
+                      {% endif %}
                       {% endif %}
                     {% endfor %}
                         <li><a href="http://birdtree.org/">BirdTree</a></li>
