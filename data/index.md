@@ -21,7 +21,7 @@ weight: 4
 Citation:
 Burgin, C. J., J. P. Colella, P. L. Kahn, and N. S. Upham. 2018. How many species of mammals are there? Journal of Mammalogy 99:1–14. [https://academic.oup.com/jmammal/article/99/1/1/4834091](https://academic.oup.com/jmammal/article/99/1/1/4834091)
 
-<a href="https://academic.oup.com/jmammal/article/99/1/1/4834091" target="_blank"><img border="0" src="http://vertlife.github.io/images/BurginEtAl2018_Table1.jpg" height="300px" style="float:right; margin-left: 1em"/>
+<a href="https://academic.oup.com/jmammal/article/99/1/1/4834091" target="_blank"><img border="0" src="http://vertlife.github.io/images/BurginEtAl2018_Table1.jpg" height="250px" style="float:right; margin-left: 1em"/>
 
 Logistical and planning support for this work came from the NSF Vertlife Terrestrial grant with development commissioned by the [American Society of Mammalogists](http://www.mammalsociety.org/about-asm).
 
