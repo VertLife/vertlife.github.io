@@ -25,7 +25,7 @@ Burgin, C. J., J. P. Colella, P. L. Kahn, and N. S. Upham. 2018. How many specie
 
 Logistical and planning support for this work came from the NSF Vertlife Terrestrial grant with development commissioned by the [American Society of Mammalogists](http://www.mammalsociety.org/about-asm).
 
-The ASM Biodiversity Committee stewards the Mammal Diversity Database, an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
+The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://mammaldiversity.org), an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
 
 
 ### Phylogenies
@@ -41,13 +41,11 @@ Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolu
 Abstract:
 Human activities continue to erode the tree of life, requiring us to prioritize research and conservation. Amphibians represent key victims and bellwethers of global change, and the need for action to conserve them is drastically outpacing knowledge. We provide a phylogeny incorporating nearly all extant amphibians (7,238 species). Current amphibian diversity is composed of both older, depauperate lineages and extensive, more recent tropical radiations found in select clades. Frog and salaman- der diversification increased strongly after the Cretaceous–Palaeogene boundary, preceded by a potential mass-extinction event in salamanders. Diversification rates of subterranean caecilians varied little over time. Biogeographically, the Afro- and Neotropics harbour a particularly high proportion of Gondwanan relicts, comprising species with high evolutionary distinctive- ness (ED). These high-ED species represent a large portion of the branches in the present tree: around 28% of all phylogenetic diversity comes from species in the top 10% of ED. The association between ED and imperilment is weak, but many species with high ED are now imperilled or lack formal threat status, suggesting opportunities for integrating evolutionary position and phylogenetic heritage in addressing the current extinction crisis. By providing a phylogenetic estimate for extant amphibians and identifying their threats and ED, we offer a preliminary basis for a quantitatively informed global approach to conserving the amphibian tree of life.
 
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
 
 #### Squamates: Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status
 
