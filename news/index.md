@@ -7,6 +7,9 @@ weight: 4
 News
 =================
 
+- [Human threats to the amphibian tree of life](https://news.yale.edu/2018/03/26/human-threats-amphibian-tree-life) - March 26, 2018
+	
+	Jetz and co-corresponding author R. Alexander Pyron of George Washington constructed the first comprehensive family tree for nearly all amphibious species alive today. The researchers used the data to examine historical diversification patterns of amphibians as well as species’ level of isolation on the family tree, also called evolutionary distinctness.
 
 - [New VertLife project will sprout a forest of family trees](http://news.yale.edu/2014/09/18/new-vertlife-project-will-sprout-forest-family-trees) - September 18, 2014
 

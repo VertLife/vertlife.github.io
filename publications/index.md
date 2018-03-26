@@ -10,6 +10,8 @@ Vertlife-based publications, 2014-2017
 
 ## Walter Jetz ##
 
+Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1.
+
 Ballesteros-Mejia, L., I. J. Kitching, W. Jetz, and J. Beck. (2016). Putting insects on the map: near-global variation in sphingid moth richness along spatial and environmental gradients.  Ecography. 39  DOI: 10.1111/ecog.02438
 
 Domisch, S., Amatulli, G. & W. Jetz (2015). Near-global freshwater-specific environmental variables for biodiversity analyses in 1 km resolution.  Scientific Data. 2  150073 DOI: 10.1038/sdata.2015.73
@@ -27,6 +29,8 @@ Tonini, J. F. R., K. H. Beard, R. B. Ferreira, W. Jetz, and R. A. Pyron (2016). 
 Wilson, A. M., & W. Jetz (2016). Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions.  PLoS Biology. 14  e1002415 DOI: 10.1371/journal.pbio.1002415
 
 ## Alex Pyron ##
+
+Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1.
 
 Pyron, R. Alexander, and Frank T. Burbrink. "Contrasting models of parity‐mode evolution in squamate reptiles." Journal of Experimental Zoology Part B: Molecular and Developmental Evolution 324, no. 6 (2015): 467-472.
 
