@@ -14,11 +14,19 @@ weight: 4
 
 #### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+### Quick Links
+
+* [Taxonomies](#taxonomies)
+* [Phylogenies](#phylogenies)
+* [Traits](#traits)
+
+<hr />
+
 ### Taxonomies
 
 #### Mammals: [The Mammal Diversity Database](https://mammaldiversity.org)
 
-Citation:
+**Citation**:
 Burgin, C. J., J. P. Colella, P. L. Kahn, and N. S. Upham. 2018. How many species of mammals are there? Journal of Mammalogy 99:1–14. [https://academic.oup.com/jmammal/article/99/1/1/4834091](https://academic.oup.com/jmammal/article/99/1/1/4834091)
 
 <a href="https://academic.oup.com/jmammal/article/99/1/1/4834091" target="_blank"><img border="0" src="http://vertlife.github.io/images/BurginEtAl2018_Table1.jpg" height="250px" style="float:right; margin-left: 1em"/>
@@ -27,37 +35,51 @@ Logistical and planning support for this work came from the [NSF Vertlife Terres
 
 The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://mammaldiversity.org), an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
 
+<hr />
 
 ### Phylogenies
 
 #### Amphibians: The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life
 
-Citation:
+**Citation**:
 Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1.
 	[https://www.nature.com/articles/s41559-018-0515-5](https://www.nature.com/articles/s41559-018-0515-5)
 
 <a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="0" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
-Abstract:
+**Abstract**:
 Human activities continue to erode the tree of life, requiring us to prioritize research and conservation. Amphibians represent key victims and bellwethers of global change, and the need for action to conserve them is drastically outpacing knowledge. We provide a phylogeny incorporating nearly all extant amphibians (7,238 species). Current amphibian diversity is composed of both older, depauperate lineages and extensive, more recent tropical radiations found in select clades. Frog and salaman- der diversification increased strongly after the Cretaceous–Palaeogene boundary, preceded by a potential mass-extinction event in salamanders. Diversification rates of subterranean caecilians varied little over time. Biogeographically, the Afro- and Neotropics harbour a particularly high proportion of Gondwanan relicts, comprising species with high evolutionary distinctive- ness (ED). These high-ED species represent a large portion of the branches in the present tree: around 28% of all phylogenetic diversity comes from species in the top 10% of ED. The association between ED and imperilment is weak, but many species with high ED are now imperilled or lack formal threat status, suggesting opportunities for integrating evolutionary position and phylogenetic heritage in addressing the current extinction crisis. By providing a phylogenetic estimate for extant amphibians and identifying their threats and ED, we offer a preliminary basis for a quantitatively informed global approach to conserving the amphibian tree of life.
 
-#### .
-#### .
+**Supplementary files**:
+- [SupplementaryFiles_Key.docx](https://data.vertlife.org/amphibiantree/download/SupplementaryFiles_Key.docx)
+- [amph_region_assignments.csv](https://data.vertlife.org/amphibiantree/download/amph_region_assignments.csv)
+- [amph_shl_new_Backbone.csv](https://data.vertlife.org/amphibiantree/download/amph_shl_new_Backbone.csv)
+- [amph_shl_new_Classification.csv](https://data.vertlife.org/amphibiantree/download/amph_shl_new_Classification.csv)
+- [amph_shl_new_Consensus_7238.tre](https://data.vertlife.org/amphibiantree/download/amph_shl_new_Consensus_7238.tre)
+- [amph_shl_new_GenBank.csv](https://data.vertlife.org/amphibiantree/download/amph_shl_new_GenBank.csv)
+- [amph_shl_new_Posterior_7238.1000-10000.trees.zip](https://data.vertlife.org/amphibiantree/download/amph_shl_new_Posterior_7238.1000-10000.trees.zip)
+- [amph_shl_new.ED.1000.csv](https://data.vertlife.org/amphibiantree/download/amph_shl_new.ED.1000.csv)
+- [amph_shl_new.models](https://data.vertlife.org/amphibiantree/download/amph_shl_new.models)
+- [amph_shl_new.phy](https://data.vertlife.org/amphibiantree/download/amph_shl_new.phy)
+- [amph_shl_new.tre](https://data.vertlife.org/amphibiantree/download/amph_shl_new.tre)
+
+<hr />
 
 #### Squamates: Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status
 
-Citation:
+**Citation**:
 Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
 
 <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="0" src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
-Download data on Dryad <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank">here</a>
+**Download data** on Dryad <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank">here</a>
 
-Link to squamate phylogeny gif <a href="http://vertlife.github.io/images/Tonini_et_al.gif" target="_blank">here</a>
+**Link to squamate phylogeny gif** <a href="http://vertlife.github.io/images/Tonini_et_al.gif" target="_blank">here</a>
 
 Abstract:
 Macroevolutionary rates of diversification and anthropogenic extinction risk differ vastly throughout the Tree of Life. This results in a highly heterogeneous distribution of Evolutionary distinctiveness (ED) and threat status among species. We examine the phylogenetic distribution of ED and threat status for squamates (amphisbaenians, lizards, and snakes) using fully-sampled phylogenies containing 9574 species and expert-based estimates of threat status for ~4000 species. We ask whether threatened species are more closely related than would be expected by chance and whether high-risk species represent a disproportionate amount of total evolutionary history. We found currently-assessed threat status to be phylogenetically clustered at broad level in Squamata, suggesting it is critical to assess extinction risks for close relatives of threatened lineages. Our findings show no association between threat status and ED, suggesting that future extinctions may not result in a disproportionate loss of evolutionary history. Lizards in degraded tropical regions (e.g., Madagascar, India, Australia, and the West Indies) seem to be at particular risk. A low number of threatened high-ED species in areas like the Amazon, Borneo, and Papua New Guinea may be due to a dearth of adequate risk assessments. It seems we have not yet reached a tipping point of extinction risk affecting a majority of species; 63% of the assessed species are not threatened and 56% are Least Concern. Nonetheless, our results show that immediate efforts should focus on geckos, iguanas, and chameleons, representing 67% of high-ED threatened species and 57% of Unassessed high-ED lineages.
 
+<hr />
 
 ### Traits
 
