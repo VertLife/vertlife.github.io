@@ -20,7 +20,7 @@ weight: 4
 * [Phylogenies](#phylogenies)
 * [Traits](#traits)
 
-<hr />
+<hr class="with-margin" />
 
 ### Taxonomies
 
@@ -35,7 +35,7 @@ Logistical and planning support for this work came from the [NSF Vertlife Terres
 
 The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://mammaldiversity.org), an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
 
-<hr />
+<hr class="with-margin" />
 
 ### Phylogenies
 
@@ -63,7 +63,7 @@ Human activities continue to erode the tree of life, requiring us to prioritize 
 - [amph_shl_new.phy](https://data.vertlife.org/amphibiantree/download/amph_shl_new.phy)
 - [amph_shl_new.tre](https://data.vertlife.org/amphibiantree/download/amph_shl_new.tre)
 
-<hr />
+<hr class="with-margin" />
 
 #### Squamates: Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status
 
@@ -79,7 +79,7 @@ Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phyloge
 Abstract:
 Macroevolutionary rates of diversification and anthropogenic extinction risk differ vastly throughout the Tree of Life. This results in a highly heterogeneous distribution of Evolutionary distinctiveness (ED) and threat status among species. We examine the phylogenetic distribution of ED and threat status for squamates (amphisbaenians, lizards, and snakes) using fully-sampled phylogenies containing 9574 species and expert-based estimates of threat status for ~4000 species. We ask whether threatened species are more closely related than would be expected by chance and whether high-risk species represent a disproportionate amount of total evolutionary history. We found currently-assessed threat status to be phylogenetically clustered at broad level in Squamata, suggesting it is critical to assess extinction risks for close relatives of threatened lineages. Our findings show no association between threat status and ED, suggesting that future extinctions may not result in a disproportionate loss of evolutionary history. Lizards in degraded tropical regions (e.g., Madagascar, India, Australia, and the West Indies) seem to be at particular risk. A low number of threatened high-ED species in areas like the Amazon, Borneo, and Papua New Guinea may be due to a dearth of adequate risk assessments. It seems we have not yet reached a tipping point of extinction risk affecting a majority of species; 63% of the assessed species are not threatened and 56% are Least Concern. Nonetheless, our results show that immediate efforts should focus on geckos, iguanas, and chameleons, representing 67% of high-ED threatened species and 57% of Unassessed high-ED lineages.
 
-<hr />
+<hr class="with-margin" />
 
 ### Traits
 
