@@ -7,6 +7,12 @@ function getURLParameter(name) {
     );
 }
 
+var DEFAULT_TREESIZE_MIN = 100;
+var DEFAULT_TREESIZE_MAX = 10000;
+var DEFAULT_TREESIZE_MAX_SHARK = 500;
+var tsmin = DEFAULT_TREESIZE_MIN;
+var tsmax = DEFAULT_TREESIZE_MAX;
+
 $('#btnGetTrees').click(function(event) {
     
   $("#loading").toggle(true);
@@ -25,7 +31,6 @@ $('#btnGetTrees').click(function(event) {
   if (getURLParameter('debug') == 'true') {
     url =  'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/prune';
   }
-  url =  'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/prune';
 
   $.post(url, {
     email: $('#email').val(),
@@ -85,6 +90,36 @@ function checkJobStatus(email, job_id, statusObj) {
     });
 }
 
+function setTreeSizes() {
+  var baseTree = $("input[name=grpTaxa]:checked").val();
+  var treeset = $('#treeset').val();
+
+  if (baseTree == 'sharktree' && treeset.indexOf("sequence_data") !== -1) {
+    $("#tsmax").html(DEFAULT_TREESIZE_MAX_SHARK.toLocaleString('en'));
+    tsmax = DEFAULT_TREESIZE_MAX_SHARK;
+  } else {
+    $("#tsmax").html(DEFAULT_TREESIZE_MAX.toLocaleString('en'));
+    tsmax = DEFAULT_TREESIZE_MAX;
+  }
+  checkTreeSize();
+}
+
+function checkTreeSize() {
+  var treenum = $('#treenum').val();
+
+  if(isNumber(treenum)) {
+    if(treenum < tsmin) {
+      treenum = tsmin;
+    } else if (treenum > tsmax) {
+      treenum = tsmax;
+    }
+  } else {
+    treenum = tsmin;
+  }
+
+  $('#treenum').val(treenum);
+}
+
 function isNumber(n) {
   return !isNaN(parseFloat(n)) && isFinite(n);
 }
@@ -127,22 +162,13 @@ function loadSelectedTree() {
   $.each(treeData[baseTree].treesets, function(key, value) {
     $("#treeset").append($("<option></option>").attr("value", key).text(value));
   });
+
+  setTreeSizes();
 }
 
 $('input[name=grpTaxa]').on('click', loadSelectedTree);
-
-$('#treenum').blur(
-  function(event) {
-    if(isNumber(this.value)) {
-      if(this.value<100) {
-        this.value=100;
-      } else if (this.value>10000) {
-        this.value=10000;
-      }
-    } else {
-      this.value=10;
-    }
-  }
-);
+$('#treeset').on('change', setTreeSizes);
+$("#treenum").val(tsmin);
+$('#treenum').blur(checkTreeSize);
 
 loadTreeData();

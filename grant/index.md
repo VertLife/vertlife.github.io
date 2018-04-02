@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grant
-weight: 3
+weight: 2
 ---
 
 ## VertLife Terrestrial: A complete, global assembly of phylogenetic, trait, spatial and environment characteristics for a model clade ##

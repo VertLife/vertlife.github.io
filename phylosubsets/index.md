@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Phylogeny subsets
-weight: 4
-incognito: true
+weight: 5
 ---
 
 
@@ -20,9 +19,10 @@ be conducted with a large sample of trees.*
 
 **Instructions**
 
-1. Select species from the list. Then copy and paste or drag and drop
+1. Select species from the list which follows the taxonomy. Then copy and paste or drag and drop
 them into the box to the right. Alternatively, download the [taxonomy file](https://data.vertlife.org/) for your group
 and paste species names from the "Scientific" column.  
+  - _Please note_: If you have different names, you will have to resolve to the available list. 
 2. Choose a tree distribution (see paper for details).  
 3. Select the number of trees to download (defaults to minimum of 100)  
 4. Click "Get Trees" to download a zipped set of randomly selected
@@ -45,12 +45,18 @@ sources.
             <input type="radio" name="grpTaxa" id="grpTaxaAmph" value="amphibiantree" checked> Amphibians
           </label>
           <label class="radio-inline">
+            <input type="radio" name="grpTaxa" id="grpTaxaBird" value="birdtree"> Birds
+          </label>
+          <label class="radio-inline">
+            <input type="radio" name="grpTaxa" id="grpTaxaShark" value="sharktree"> Sharks
+          </label>
+          <label class="radio-inline">
             <input type="radio" name="grpTaxa" id="grpTaxaSqam" value="squamatetree"> Squamates
           </label>
       </div>
       <hr />
       <div class="form-group">
-        <label>Select <span id="baseTreeName"></span> species: </label>
+        <label>Select from the following <span id="baseTreeName"></span>: </label>
         <div class="row">
           <div class="speciesContainer col-md-5"></div>
           <div class="selectedContainer col-md-5">
@@ -79,7 +85,7 @@ sources.
         <label for="treenum" class="col-sm-5 control-label">Select number of trees to create: </label>
         <div class="col-sm-7">
           <input id="treenum" type="text" size="2" class="form-control input-sm" value="100">
-          <p class="help-block"><em><strong>Note:</strong> We need a minimum of <strong>100</strong> and a maximum <strong>10,000</strong></em></p>
+          <p class="help-block"><em><strong>Note:</strong> We need a minimum of <strong><span id="tsmin">100</span></strong> and a maximum <strong><span id="tsmax">10,000</span></strong></em></p>
         </div>
       </div>
       <div class="form-group">

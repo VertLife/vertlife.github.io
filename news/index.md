@@ -1,7 +1,7 @@
 ---
 layout: default
 title: News
-weight: 4
+weight: 6
 ---
 
 News
