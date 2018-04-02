@@ -20,7 +20,8 @@ be conducted with a large sample of trees.*
 **Instructions**
 
 1. Select species from the list which follows the taxonomy. Then copy and paste or drag and drop
-them into the box to the right. Alternatively, download the [taxonomy file](https://data.vertlife.org/) for your group
+them into the box to the right. 
+  - _Alternatively_, download the [taxonomy file](https://data.vertlife.org/vertlife_taxonomies.csv) for your group
 and paste species names from the "Scientific" column.  
   - _Please note_: If you have different names, you will have to resolve to the available list. 
 2. Choose a tree distribution (see paper for details).  
