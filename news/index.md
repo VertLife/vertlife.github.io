@@ -7,6 +7,10 @@ weight: 6
 News
 =================
 
+- [VertLife Phylogeny Subsetter](https://vertlife.org/phylosubsets/) - April 2, 2018
+	
+	In addition to the Bird Tree and Shark Tree, a generalized phylogeny subsetter tool is now available for Amphibians, Birds, Sharks, and Squamates! Check it out [here](https://vertlife.org/phylosubsets/) and provide us with [feedback](mailto:support@vertlife.org).
+
 - [Human threats to the amphibian tree of life](https://news.yale.edu/2018/03/26/human-threats-amphibian-tree-life) - March 26, 2018
 	
 	Jetz of Yale and co-corresponding author Pyron of George Washington constructed the first comprehensive family tree for nearly all amphibious species alive today. The researchers used the data to examine historical diversification patterns of amphibians as well as species’ level of isolation on the family tree, also called evolutionary distinctness.
