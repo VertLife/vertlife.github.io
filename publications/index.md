@@ -4,7 +4,7 @@ title: Publications
 weight: 7
 ---
 
-Vertlife-based publications, 2014-2017
+Vertlife-based publications, 2014-2018
 =================
 
 
