@@ -84,6 +84,10 @@ Wake DB  2017  Persistent plethodontid themes: species, phylogenies and biogeogr
 
 ## Michelle Koo ##
 
+Yap, Tiffany A., Michelle S. Koo, Richard F. Ambrose, David B. Wake, and Vance T. Vredenburg. 2015. “Averting a North American Biodiversity Crisis.” Science 349 (6247): 481–82. [https://doi.org/10.1126/science.aab1052](https://doi.org/10.1126/science.aab1052).
+
+Yap, Tiffany A., Michelle S. Koo, Richard F. Ambrose, and Vance T. Vredenburg. 2018. “Introduced Bullfrog Facilitates Pathogen Invasion in the Western United States.” PLOS ONE 13 (4): e0188384. [https://doi.org/10.1371/journal.pone.0188384](https://doi.org/10.1371/journal.pone.0188384).
+
 ## Tim Colston ##
 
 ## Nate Upham ##
