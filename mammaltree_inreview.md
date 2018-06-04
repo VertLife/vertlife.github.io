@@ -11,4 +11,8 @@ incognito: true
 
 <br />
 
-Link to a sample of 10 trees of Mammalia (5911 species) is [here](https://data.vertlife.org/mammaltree/MamPhy_fullPosterior_BDvr_pcsFIXED_NDexp_sample10.trees.zip). Note that the manuscript is in review; trees are not yet published and remain under embargo.
+Link to a sample of 10 trees of Mammalia (5911 species) is [here](https://data.vertlife.org/mammaltree/MamPhy_fullPosterior_BDvr_pcsFIXED_NDexp_sample10.trees.zip). 
+
+<br />
+
+Note that the manuscript is in review; trees are not yet published and remain under embargo.
