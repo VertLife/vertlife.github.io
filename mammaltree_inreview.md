@@ -5,9 +5,9 @@ weight: 5
 incognito: true
 ---
 
-## Ecological drivers of diversification and richness in mammals
+## Ecological causes of uneven diversification and richness in the mammal tree of life
 #### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
-#### In Review, _Science_.
+#### In Review, _Nature_.
 
 <br />
 
