@@ -27,8 +27,4 @@ Link to Supplementary Data files 1-7 (currently hosted on Dropbox) is [here](htt
 
 <br />
 
-Full tree distributions (including the Completed trees of 5911 species) will be published at http://vertlife.org/phylosubsets/ along with the article.
-
-<br />
-
-Note that the manuscript is in review; trees are not yet published and remain under embargo.
+[This subsetter tool](http://vertlife.org/phylosubsets/) will publish the full tree distributions, including the Completed trees of 5911 species, along with the article. Note that the manuscript is in review; trees are not yet published and remain under embargo.
