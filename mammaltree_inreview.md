@@ -23,7 +23,7 @@ Links to consensus trees of the DNA-only distribution of 10,000 trees (maximum c
 
 <br />
 
-Link to Supplementary Data files 1-7 (currently hosted on Dropbox) is [here](https://www.dropbox.com/sh/xgdg5a1xlcduk7h/AAB2s6PCtX3R48k_zkth7QoGa?dl=0). 
+[Supplementary Data files 1-7](https://www.dropbox.com/sh/xgdg5a1xlcduk7h/AAB2s6PCtX3R48k_zkth7QoGa?dl=0){:target="_blank"} are currently hosted on Dropbox. 
 
 <br />
 
