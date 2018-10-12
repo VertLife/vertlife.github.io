@@ -12,7 +12,7 @@ incognito: true
 
 <br />
 
-#### Links to consensus trees of the DNA-only distribution of 10,000 trees (maximum clade credibility):   
+#### Links to MCC (maximum clade credibility) consensus trees of the DNA-only distributions:   
    **Node-dated exponential (NDexp)** --- 4098 species; backbone estimated with 17 node calibrations 
    - [pdf file](https://www.dropbox.com/s/mbux32gaeys9qcp/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_plotted.pdf?dl=1){:target="_blank"} (150 inches long)
    - [nexus file](https://www.dropbox.com/s/50iujezq37085bb/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_target.tre?dl=1){:target="_blank"} (3.1 Mb)
