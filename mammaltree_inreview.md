@@ -24,7 +24,7 @@ incognito: true
 <br />
 
 #### Links to 1,000-tree random samples from the Completed distributions of 10,000 trees:
-	**Node-dated exponential (NDexp)** --- 5911 species; backbone estimated with 17 node calibrations
+   **Node-dated exponential (NDexp)** --- 5911 species; backbone estimated with 17 node calibrations
    - [nexus file](https://www.dropbox.com/s/732njcrlqtogl12/MamPhy_fullPosterior_BDvr_Completed_5911sp_topoCons_NDexp_sample1000_nexus.trees?dl=1){:target="_blank"} (123.9 Mb)
 
    **Fossilized birth-death (FBD)** --- 5911 species + 76 fossil tips; backbone topology as in Zhou et al. (2013)
