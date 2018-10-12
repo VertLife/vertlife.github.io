@@ -12,7 +12,7 @@ incognito: true
 
 <br />
 
-Links to consensus trees of the DNA-only distribution of 10,000 trees (maximum clade credibility):   
+#### Links to consensus trees of the DNA-only distribution of 10,000 trees (maximum clade credibility):   
    **Node-dated exponential (NDexp)** --- 4098 species; backbone estimated with 17 node calibrations 
    - [pdf file](https://www.dropbox.com/s/mbux32gaeys9qcp/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_plotted.pdf?dl=1){:target="_blank"} (150 inches long)
    - [nexus file](https://www.dropbox.com/s/50iujezq37085bb/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_target.tre?dl=1){:target="_blank"} (3.1 Mb)
@@ -23,7 +23,7 @@ Links to consensus trees of the DNA-only distribution of 10,000 trees (maximum c
 
 <br />
 
-Links to 1,000-tree random samples from the Completed distributions of 10,000 trees:
+#### Links to 1,000-tree random samples from the Completed distributions of 10,000 trees:
 	**Node-dated exponential (NDexp)** --- 5911 species; backbone estimated with 17 node calibrations
    - [nexus file](https://www.dropbox.com/s/732njcrlqtogl12/MamPhy_fullPosterior_BDvr_Completed_5911sp_topoCons_NDexp_sample1000_nexus.trees?dl=1){:target="_blank"} (123.9 Mb)
 
