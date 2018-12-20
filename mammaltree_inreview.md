@@ -9,13 +9,15 @@ incognito: true
 #### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
 #### In Review, _PNAS_.
 
-### Significance statement
+#### Significance statement
 The over 6000 living species in the mammalian tree of life are clustered unevenly among branches so that similarly aged groups sometimes differ many fold in modern richness (e.g., ~2500 rodent species versus 8 pangolins). Why differential bursts of species diversification occur, and how long they persist, has implications for sustaining biodiversity. Here we develop a robust evolutionary timescale for most extant species, recovering signatures of rate-variable diversification linked to ecological factors. Mammals with low dispersal or that are day-active show the fastest recent diversification, consistent with mechanisms of allopatric speciation and ecological opportunity, respectively. Speciation rates are surprisingly faster in extra-tropical than tropical lineages, suggesting that longer durations for tropical lineages drive the latitudinal diversity gradient in mammals.
 
 
 <br />
 
 #### Links to MCC (maximum clade credibility) consensus trees of the DNA-only distributions:   
+   **NOTE: Making consensus trees is only meaningful on our DNA-only distributions; imputed species in our completed trees render MCC trees inappropriate** 
+
    **Node-dated exponential (NDexp)** --- 4098 species; backbone estimated with 17 node calibrations 
    - [pdf file](https://www.dropbox.com/s/mbux32gaeys9qcp/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_plotted.pdf?dl=1){:target="_blank"} (150 inches long)
    - [nexus file](https://www.dropbox.com/s/50iujezq37085bb/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_target.tre?dl=1){:target="_blank"} (3.1 Mb)
