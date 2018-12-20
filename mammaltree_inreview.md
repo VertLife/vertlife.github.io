@@ -7,7 +7,7 @@ incognito: true
 
 ## Ecological causes of uneven diversification and richness in the mammal tree of life
 #### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
-#### In Review, _Nature_.
+#### In Review, _Proceedings of the National Academy of Science of the United States of America_.
 
 
 <br />
