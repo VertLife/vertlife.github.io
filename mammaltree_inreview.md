@@ -17,8 +17,8 @@ The over 6000 living species in the mammalian tree of life are clustered unevenl
 <br />
 
 #### **Links to MCC consensus trees of the DNA-only distributions:**   
-   **USAGE:** Consensus trees are only meaningful on our DNA-only distributions; completed consensus trees are inappropriate for analysis since the imputed species are randomly placed within taxonomic constraints.
-   
+   **USAGE:** Consensus trees are only meaningful on our DNA-only distributions; completed consensus trees are inappropriate for analysis since they contain taxonomically imputed species that vary widely in position across the posterior distribution of trees.
+      
    **Node-dated exponential (NDexp)** --- 4098 species; backbone estimated with 17 node calibrations 
    - [pdf file](https://www.dropbox.com/s/mbux32gaeys9qcp/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_plotted.pdf?dl=1){:target="_blank"} (150 inches long)
    - [nexus file](https://www.dropbox.com/s/50iujezq37085bb/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_target.tre?dl=1){:target="_blank"} (3.1 Mb)
