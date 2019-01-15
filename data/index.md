@@ -16,28 +16,33 @@ weight: 4
 
 ### Quick Links
 
-* [Taxonomies](#taxonomies)
 * [Phylogenies](#phylogenies)
+* [Taxonomies](#taxonomies)
 * [Traits](#traits)
 
 <hr class="with-margin" />
 
-### Taxonomies
 
-#### Mammals: [The Mammal Diversity Database](https://mammaldiversity.org)
+### Phylogenies
+
+#### Mammals: The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life
 
 **Citation**:
-Burgin, C. J., J. P. Colella, P. L. Kahn, and N. S. Upham. 2018. How many species of mammals are there? Journal of Mammalogy 99:1–14. [https://academic.oup.com/jmammal/article/99/1/1/4834091](https://academic.oup.com/jmammal/article/99/1/1/4834091)
+Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
 
-<a href="https://academic.oup.com/jmammal/article/99/1/1/4834091" target="_blank"><img border="0" src="http://vertlife.github.io/images/BurginEtAl2018_Table1.jpg" height="250px" style="float:right; margin-left: 1em"/>
+<a href="https://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/images/Fig1_NDexp_TopoCons_24Oct2018" height="600px" style="float:right; margin-left: 1em"/>
 
-Logistical and planning support for this work came from the [NSF Vertlife Terrestrial grant](http://vertlife.org/grant/) with development commissioned by the [American Society of Mammalogists](http://www.mammalsociety.org/about-asm).
+**Abstract**:
+The uneven distribution of species in the tree of life is rooted in unequal speciation and extinction among groups. Yet the causes of differential diversification are little known despite their relevance for sustaining biodiversity into the future. Here we investigate rates of species diversification across extant Mammalia, a compelling system that includes our own closest relatives. We develop a new phylogeny of nearly all ~6000 species using a 31-gene supermatrix and fossil node- and tip-dating approaches to establish a robust evolutionary timescale for mammals. Our findings link the causes of uneven modern species richness with ecologically-driven variation in diversification rates, including 24 detected rate shifts. Speciation rates are a stronger predictor of among-clade richness than clade age, countering claims of clock-like speciation in large phylogenies. Surprisingly, rate heterogeneity in recent radiations shows limited association with latitude, despite the well-known richness increase toward the equator. Instead, we find a deeper-time association where clades of high-latitude species have the highest speciation rates, suggesting that species durations are shorter outside than inside the tropics. At shallower timescales (i.e., young clades), diurnality and low vagility are both linked to greater speciation rates and extant richness. High turnover among small-ranged allopatric species may erase the signal of vagility in older clades, while diurnality may adaptively reduce competition and extinction. These findings highlight the underappreciated joint roles of ephemeral (turnover-based) and adaptive (persistence-based) diversification processes, which manifest as speciation gradients in recent and more ancient radiations to explain the evolution of mammal diversity.
 
-The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://mammaldiversity.org), an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
+**Supplementary files**:
+
+- Data downloads are **not yet available** (the article is under peer review); once officially published the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
+- Contact the authors for collaboration if you require advance data.
+- Any earlier downloads from [data.vertlife.org](data.vertlife.org) were based on an incorrect version of the mammal dataset and should not be used.
 
 <hr class="with-margin" />
 
-### Phylogenies
 
 #### Amphibians: The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life
 
@@ -70,6 +75,21 @@ Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phyloge
 
 Abstract:
 Macroevolutionary rates of diversification and anthropogenic extinction risk differ vastly throughout the Tree of Life. This results in a highly heterogeneous distribution of Evolutionary distinctiveness (ED) and threat status among species. We examine the phylogenetic distribution of ED and threat status for squamates (amphisbaenians, lizards, and snakes) using fully-sampled phylogenies containing 9574 species and expert-based estimates of threat status for ~4000 species. We ask whether threatened species are more closely related than would be expected by chance and whether high-risk species represent a disproportionate amount of total evolutionary history. We found currently-assessed threat status to be phylogenetically clustered at broad level in Squamata, suggesting it is critical to assess extinction risks for close relatives of threatened lineages. Our findings show no association between threat status and ED, suggesting that future extinctions may not result in a disproportionate loss of evolutionary history. Lizards in degraded tropical regions (e.g., Madagascar, India, Australia, and the West Indies) seem to be at particular risk. A low number of threatened high-ED species in areas like the Amazon, Borneo, and Papua New Guinea may be due to a dearth of adequate risk assessments. It seems we have not yet reached a tipping point of extinction risk affecting a majority of species; 63% of the assessed species are not threatened and 56% are Least Concern. Nonetheless, our results show that immediate efforts should focus on geckos, iguanas, and chameleons, representing 67% of high-ED threatened species and 57% of Unassessed high-ED lineages.
+
+<hr class="with-margin" />
+
+### Taxonomies
+
+#### Mammals: [The Mammal Diversity Database](https://mammaldiversity.org)
+
+**Citation**:
+Burgin, C. J., J. P. Colella, P. L. Kahn, and N. S. Upham. 2018. How many species of mammals are there? Journal of Mammalogy 99:1–14. [https://academic.oup.com/jmammal/article/99/1/1/4834091](https://academic.oup.com/jmammal/article/99/1/1/4834091)
+
+<a href="https://academic.oup.com/jmammal/article/99/1/1/4834091" target="_blank"><img border="0" src="http://vertlife.github.io/images/BurginEtAl2018_Table1.jpg" height="250px" style="float:right; margin-left: 1em"/>
+
+Logistical and planning support for this work came from the [NSF Vertlife Terrestrial grant](http://vertlife.org/grant/) with development commissioned by the [American Society of Mammalogists](http://www.mammalsociety.org/about-asm).
+
+The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://mammaldiversity.org), an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
 
 <hr class="with-margin" />
 
