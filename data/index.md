@@ -6,7 +6,7 @@ weight: 4
 
 {::options parse_block_html="true" /}
 
-#### On this page are providing information on our VertLife data products — as they go live.  
+#### Here we provide information on our VertLife data products — as they go live.  
 
 ### Quick Links
 
