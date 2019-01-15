@@ -24,14 +24,14 @@ weight: 4
 **Citation**:
 Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
 
-<a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/images/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
+<a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
 
 **Abstract**:
 The uneven distribution of species in the tree of life is rooted in unequal speciation and extinction among groups. Yet the causes of differential diversification are little known despite their relevance for sustaining biodiversity into the future. Here we investigate rates of species diversification across extant Mammalia, a compelling system that includes our own closest relatives. We develop a new phylogeny of nearly all ~6000 species using a 31-gene supermatrix and fossil node- and tip-dating approaches to establish a robust evolutionary timescale for mammals. Our findings link the causes of uneven modern species richness with ecologically-driven variation in diversification rates, including 24 detected rate shifts. Speciation rates are a stronger predictor of among-clade richness than clade age, countering claims of clock-like speciation in large phylogenies. Surprisingly, rate heterogeneity in recent radiations shows limited association with latitude, despite the well-known richness increase toward the equator. Instead, we find a deeper-time association where clades of high-latitude species have the highest speciation rates, suggesting that species durations are shorter outside than inside the tropics. At shallower timescales (i.e., young clades), diurnality and low vagility are both linked to greater speciation rates and extant richness. High turnover among small-ranged allopatric species may erase the signal of vagility in older clades, while diurnality may adaptively reduce competition and extinction. These findings highlight the underappreciated joint roles of ephemeral (turnover-based) and adaptive (persistence-based) diversification processes, which manifest as speciation gradients in recent and more ancient radiations to explain the evolution of mammal diversity.
 
 **Supplementary files**:
 
-- Data downloads are **unavailable** while the article is under peer review; once officially published the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
+- **Data downloads are unavailable while the article is under peer review**; once officially published the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
 - Contact the authors for collaboration if you require advance data.
 - Any earlier downloads from [data.vertlife.org](data.vertlife.org) were based on an incorrect version of the mammal dataset and should not be used.
 
