@@ -32,7 +32,7 @@ The uneven distribution of species in the tree of life is rooted in unequal spec
 **Supplementary files**:
 
 - **Data downloads are unavailable while the article is under peer review**; once officially published the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
-- Contact the authors for collaboration if you require advance data.
+- <a href="mailto:nathan.upham@yale.edu,walter.jetz@yale.edu?Subject=Mammal%trees" target="_top">Contact the authors</a> for collaboration if you require advance data.
 - Any earlier downloads from [data.vertlife.org](data.vertlife.org) were based on an incorrect version of the mammal dataset and should not be used.
 
 <hr class="with-margin" />
