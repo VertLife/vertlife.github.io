@@ -6,13 +6,7 @@ weight: 4
 
 {::options parse_block_html="true" /}
 
-#### On this page we will be providing information on our VertLife data sources and jumping-off points for data gathering and assembly, along with links to the data products that we generate — as they go live.  
-
-#### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-#### In progress, please check back regularly!
-
-#### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#### On this page are providing information on our VertLife data products — as they go live.  
 
 ### Quick Links
 
