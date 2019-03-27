@@ -7,11 +7,11 @@ incognito: true
 
 ## Ecological causes of uneven diversification and richness in the mammal tree of life
 #### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
-#### Submitted, _PNAS_.
+#### Submitted, _PLoS Biology_.
 
 <br />
 
-#### **Significance statement**
+#### **Author Summary**
 The over 6000 living species in the mammalian tree of life are clustered unevenly among branches so that similarly aged groups sometimes differ many fold in modern richness (e.g., ~2500 rodent species versus 8 pangolins). Why differential bursts of species diversification occur, and how long they persist, has implications for sustaining biodiversity. Here we develop a robust evolutionary timescale for most extant species, recovering signatures of rate-variable diversification linked to ecological factors. Mammals with low dispersal or that are day-active show the fastest recent diversification, consistent with mechanisms of allopatric speciation and ecological opportunity, respectively. Speciation rates are surprisingly faster in extra-tropical than tropical lineages, suggesting that longer durations for tropical lineages drive the latitudinal diversity gradient in mammals.
 
 <br />
