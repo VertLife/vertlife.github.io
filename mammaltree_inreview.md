@@ -20,10 +20,10 @@ The over 6000 living species in the mammalian tree of life are clustered unevenl
    **USAGE:** Consensus trees are only meaningful on our DNA-only distributions; completed trees are inappropriate for consensus since they contain taxonomically imputed species that vary widely in position across the posterior distribution of trees.
       
    **Node-dated exponential (NDexp)** --- 4098 species; backbone estimated with 17 node calibrations 
-   - [pdf file](https://www.dropbox.com/s/mbux32gaeys9qcp/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_plotted.pdf?dl=1){:target="_blank"} (150 inches long)
+   - [pdf file](https://www.dropbox.com/s/kohc5wf3m0v84hy/MamPhy_BDvr_DNAonly_topoFree_NDexp_4098sp_MCC_plotted_2.pdf?dl=1){:target="_blank"} (150 inches long)
 
    **Fossilized birth-death (FBD)** --- 4098 species + 76 fossil tips; backbone topology as in Zhou et al. (2013)
-   - [pdf file](https://www.dropbox.com/s/t9ev8mdeb0s4jnp/MamPhy_BDvr_DNAonly_topoFree_FBDasZhouEtAl_4098sp-wFossils_MCC_plotted.pdf?dl=1){:target="_blank"} (150 inches long)
+   - [pdf file](https://www.dropbox.com/s/hv6vqgiz2ex874e/MamPhy_BDvr_DNAonly_topoFree_FBDasZhouEtAl_4098sp-wFossils_MCC_plotted_2.pdf?dl=1){:target="_blank"} (150 inches long)
 
 
 <br />
