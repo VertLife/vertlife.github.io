@@ -23,6 +23,8 @@ Rates of speciation and extinction are fundamental to our understanding of evolu
   <source src="data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.mov" type="video/mov">
 </video>
 
+![Alt Text](http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.mov)
+
 
 #### **Links to MCC consensus trees of the DNA-only distributions:**   
    **USAGE:** Consensus trees are only meaningful on our DNA-only distributions; completed trees are inappropriate for consensus since they contain taxonomically imputed species that vary in topological position within constraints (genus or family) across the credible set of trees.
