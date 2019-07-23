@@ -33,9 +33,9 @@ Rates of speciation and extinction are fundamental to our understanding of evolu
 
 NDexp             |  FBD
 :-------------------------:|:-------------------------:
-<img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="300"/>  |  <img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="300"/> 
+<img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="450"/>  |  <img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="450"/> 
 :-------------------------:|:-------------------------:
-<img src="http://vertlife.org/data/credibleSet_mamPhy_DNA-only-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="300"/>  |  <img src="http://vertlife.org/data/credibleSet_mamPhy_DNA-only-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="300"/> 
+<img src="http://vertlife.org/data/credibleSet_mamPhy_DNA-only-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="450"/>  |  <img src="http://vertlife.org/data/credibleSet_mamPhy_DNA-only-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="450"/> 
 
 
 <br />
