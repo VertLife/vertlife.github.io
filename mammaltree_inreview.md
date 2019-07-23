@@ -16,18 +16,6 @@ Rates of speciation and extinction are fundamental to our understanding of evolu
 
 <br />
 
-#### **Movies of the credible sets of Mammalia trees (sample of 100 trees each of 10,000 total)**   
-   **USAGE:** Shown is the phylogenetic uncertainty propagated into each credible set of trees, consisting of both age and topological variation. For the completed tree sets, the location of the 1813 imputed species are shown (i.e., those missing DNA sequences, of 5911 species total).
-
-![](http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
-
-![](http://vertlife.org/data/credibleSet_mamPhy_Completed-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
-
-![](http://vertlife.org/data/credibleSet_mamPhy_DNA-only-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
-
-![](http://vertlife.org/data/credibleSet_mamPhy_DNA-only-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
-
-
 #### **Links to MCC consensus trees of the DNA-only distributions:**   
    **USAGE:** Consensus trees are only meaningful on our DNA-only distributions; completed trees are inappropriate for consensus since they contain taxonomically imputed species that vary in topological position within constraints (genus or family) across the credible set of trees.
       
@@ -36,6 +24,22 @@ Rates of speciation and extinction are fundamental to our understanding of evolu
 
    **Fossilized birth-death (FBD)** --- 4098 species + 76 fossil tips; backbone topology as in Zhou et al. (2013)
    - [pdf file](https://www.dropbox.com/s/qy02tip03lenfsq/MamPhy_fullPosterior_BDvr_DNAonly_4098sp_topoFree_FBDasZhouEtAl_MCC_v2_PLOTTED.pdf?dl=1){:target="_blank"} (150 inches long)
+
+<br />
+
+
+#### **Movies of the credible sets of Mammalia trees (sample of 100 trees each of 10,000 total)**   
+   **USAGE:** Shown is the phylogenetic uncertainty propagated into each credible set of trees, consisting of both age and topological variation. For the completed tree sets, the location of the 1813 imputed species are shown (i.e., those missing DNA sequences, of 5911 species total).
+
+NDexp             |  FBD
+:-------------------------:|:-------------------------:
+![](http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)  |  ![](http://vertlife.org/data/credibleSet_mamPhy_Completed-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
+
+
+
+![](http://vertlife.org/data/credibleSet_mamPhy_DNA-only-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
+
+![](http://vertlife.org/data/credibleSet_mamPhy_DNA-only-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
 
 
 <br />
