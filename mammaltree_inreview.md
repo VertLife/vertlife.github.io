@@ -23,7 +23,7 @@ Rates of speciation and extinction are fundamental to our understanding of evolu
   <source src="data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.mov" type="mov">
 </video>
 
-![](http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.mov)
+![](http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
 
 
 #### **Links to MCC consensus trees of the DNA-only distributions:**   
