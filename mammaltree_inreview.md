@@ -19,11 +19,13 @@ Rates of speciation and extinction are fundamental to our understanding of evolu
 #### **Movies of the credible sets of Mammalia trees (sample of 100 trees each of 10,000 total)**   
    **USAGE:** Shown is the phylogenetic uncertainty propagated into each credible set of trees, consisting of both age and topological variation. For the completed tree sets, the location of the 1813 imputed species are shown (i.e., those missing DNA sequences, of 5911 species total).
 
-<video width="320" height="240" controls>
-  <source src="data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.mov" type="mov">
-</video>
-
 ![](http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
+
+![](http://vertlife.org/data/credibleSet_mamPhy_Completed-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
+
+![](http://vertlife.org/data/credibleSet_mamPhy_DNA-only-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
+
+![](http://vertlife.org/data/credibleSet_mamPhy_DNA-only-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif)
 
 
 #### **Links to MCC consensus trees of the DNA-only distributions:**   
