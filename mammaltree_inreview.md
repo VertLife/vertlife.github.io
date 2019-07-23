@@ -20,7 +20,7 @@ Rates of speciation and extinction are fundamental to our understanding of evolu
    **USAGE:** Shown is the phylogenetic uncertainty propagated into each credible set of trees, consisting of both age and topological variation. For the completed tree sets, the location of the 1813 imputed species are shown (i.e., those missing DNA sequences, of 5911 species total).
 
 <video width="320" height="240" controls>
-  <source src="data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.mov" type="video/mp4">
+  <source src="data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.mov" type="video/mov">
 </video>
 
 
