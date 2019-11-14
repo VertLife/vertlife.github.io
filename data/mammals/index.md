@@ -9,10 +9,10 @@ weight: 4
 <div class="container">
   <h3>An NSF-sponsored, multi-institutional project to study the biodiversity of all terrestrial vertebrates (Tetrapoda), making them the first major global group of animals with near-complete species-level data on key evolutionary and ecological attributes.</h3>
   
-  <iframe class="onezoom" width="100%" height="400" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm?view=1&signs=1&common=1&polytomy=3&ltype=2&hltype=2&font=helvetica&colour=3&init=1"></iframe>
+  <iframe class="onezoom" width="100%" height="400" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
 </div>
 
-
+# ?view=1&signs=1&common=1&polytomy=3&ltype=2&hltype=2&font=helvetica&colour=3&init=1
 
 #### Here we provide information on our VertLife data products — as they go live.  
 
