@@ -9,7 +9,7 @@ weight: 4
 # Mammals
 
 <div class="container">
-  <h3>Explore the <b>new mammal tree of life</b>! Hosted here on OneZoom is the consensus topology of 5,911 species of mammals, scaled to time as reconstructed from molecular and fossil data (see full methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
+  <h3>Explore the <b>new mammal tree of life</b>! Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, probabilistically reconstructed using molecular and fossil data for the first time (see full comparison to previous methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
   
   <iframe class="onezoom" width="85%" height="800" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
 </div>
@@ -23,20 +23,20 @@ Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: spe
 <a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
 
 **Abstract**:
-The uneven distribution of species in the tree of life is rooted in unequal speciation and extinction among groups. Yet the causes of differential diversification are little known despite their relevance for sustaining biodiversity into the future. Here we investigate rates of species diversification across extant Mammalia, a compelling system that includes our own closest relatives. We develop a new phylogeny of nearly all ~6000 species using a 31-gene supermatrix and fossil node- and tip-dating approaches to establish a robust evolutionary timescale for mammals. Our findings link the causes of uneven modern species richness with ecologically-driven variation in diversification rates, including 24 detected rate shifts. Speciation rates are a stronger predictor of among-clade richness than clade age, countering claims of clock-like speciation in large phylogenies. Surprisingly, rate heterogeneity in recent radiations shows limited association with latitude, despite the well-known richness increase toward the equator. Instead, we find a deeper-time association where clades of high-latitude species have the highest speciation rates, suggesting that species durations are shorter outside than inside the tropics. At shallower timescales (i.e., young clades), diurnality and low vagility are both linked to greater speciation rates and extant richness. High turnover among small-ranged allopatric species may erase the signal of vagility in older clades, while diurnality may adaptively reduce competition and extinction. These findings highlight the underappreciated joint roles of ephemeral (turnover-based) and adaptive (persistence-based) diversification processes, which manifest as speciation gradients in recent and more ancient radiations to explain the evolution of mammal diversity.
+Big, time-scaled phylogenies are fundamental to connecting evolutionary processes to modern biodiversity patterns. Yet inferring reliable phylogenetic trees for thousands of species involves numerous trade-offs that have limited their utility to comparative biologists. To establish a robust evolutionary timescale for all ~6000 living species of mammals, we developed credible sets of trees that capture root-to-tip uncertainty in topology and divergence times. Our ‘backbone-and-patch’ approach to tree-building applies a newly assembled 31-gene supermatrix to two levels of Bayesian inference: (i) backbone relationships and ages among major lineages, using fossil node- or tip-dating; and (ii) species-level ‘patch’ phylogenies with non-overlapping in-groups that each correspond to one representative lineage in the backbone. Species unsampled for DNA are either excluded (‘DNA-only’ trees) or imputed within taxonomic constraints using branch lengths drawn from local birth-death models (‘completed’ trees). Joining time-scaled patches to backbones results in species-level trees of extant Mammalia with all branches estimated under the same modeling framework, thereby facilitating rate comparisons among lineages as disparate as marsupials and placentals. We compare our phylogenetic trees to previous estimates of mammal-wide phylogeny and divergence times, finding that (i) node ages are broadly concordant among studies, and (ii) recent (tip-level) rates of speciation are estimated more accurately in our study than in previous ‘supertree’ approaches where unresolved nodes led to branch length artifacts. Credible sets of mammalian phylogenetic history are now available for download at http://vertlife.org/phylosubsets, enabling investigations of long-standing questions in comparative biology.
 
 **Supplementary files**:
 
-- **Data downloads are unavailable while the article is under peer review**; once officially published the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
+- **Data downloads are unavailable while the article is under production**; once officially published the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
 - <a href="mailto:nathan.upham@yale.edu,walter.jetz@yale.edu?Subject=Mammal%20tree%20collaboration" target="_top">Contact the authors</a> for collaboration if you require advance data.
 - Any earlier downloads from [data.vertlife.org](http://data.vertlife.org) were based on an incorrect version of the mammal dataset and should not be used.
 
 <hr class="with-margin" />
 
 
-### Taxonomies
+## Taxonomy
 
-#### Mammals: [The Mammal Diversity Database](https://mammaldiversity.org)
+#### [The Mammal Diversity Database](https://mammaldiversity.org)
 
 **Citation**:
 Burgin, C. J., J. P. Colella, P. L. Kahn, and N. S. Upham. 2018. How many species of mammals are there? Journal of Mammalogy 99:1–14. [https://academic.oup.com/jmammal/article/99/1/1/4834091](https://academic.oup.com/jmammal/article/99/1/1/4834091)
