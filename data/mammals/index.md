@@ -7,7 +7,7 @@ weight: 4
 {::options parse_block_html="true" /}
 
 <div class="container">
-  <h3>Explore the new mammal tree of life! Hosted here on OneZoom is the consensus topology of 5,911 species of mammals from the forthcoming PLOS Biology paper.</h3>
+  <h3>Explore the <b>new mammal tree of life</b>! Hosted here on OneZoom is the consensus topology of 5,911 species of mammals, scaled to time as reconstructed from molecular and fossil data (see full methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
   
   <iframe class="onezoom" width="100%" height="600" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
 </div>
