@@ -6,22 +6,19 @@ weight: 4
 
 {::options parse_block_html="true" /}
 
+# Mammals
+
 <div class="container">
   <h3>Explore the <b>new mammal tree of life</b>! Hosted here on OneZoom is the consensus topology of 5,911 species of mammals, scaled to time as reconstructed from molecular and fossil data (see full methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
   
-  <iframe class="onezoom" width="100%" height="600" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
+  <iframe class="onezoom" width="85%" height="800" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
 </div>
 
-# ?view=1&signs=1&common=1&polytomy=3&ltype=2&hltype=2&font=helvetica&colour=3&init=1
 
-#### Here we provide information on our VertLife data products — as they go live.  
-
-### Phylogenies
-
-#### Mammals: Ecological causes of uneven diversification and richness in the mammal tree of life
+## Phylogeny
 
 **Citation**:
-Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
+Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology.
 
 <a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
 
