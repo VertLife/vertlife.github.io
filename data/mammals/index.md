@@ -1,7 +1,3 @@
----
-layout: default
-weight: 4
----
 
 {::options parse_block_html="true" /}
 
