@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Data
 weight: 4
 ---
 
