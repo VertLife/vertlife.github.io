@@ -6823,24 +6823,6 @@ function Link2OZ()
     }
 }
 
-function Link2Facebook()
-{
-    if (!introlock)
-    {
-        justopened = false;
-        mywindow = window.open("http://www.facebook.com/OneZoomTree");
-    }
-}
-
-function Link2Twitter()
-{
-    if (!introlock)
-    {
-        justopened = false;
-        mywindow = window.open("https://twitter.com/OneZoomTree");
-    }
-}
-
 function Link2Logo1()
 {
     if (!introlock)

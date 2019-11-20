@@ -179,6 +179,24 @@ var creditsText =
      [2,"Online code version 1.2 (2013)"],
 
      [2,],
+
+     [3,"Data sources"],
+ [2.2,"Mammal data"],
+ [1.8,"Upham, N. S., J. A. Esselstyn, and W. Jetz."],
+ [1.8,"Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation."],
+ [1.8,"PLOS Biology (2019)"],
+  [1,],
+ [2.2,"Conservation status data"],
+ [1.8,"The IUCN Red List of Threatened Species. Version 2017.3."],
+ [1.8,"IUCN, Available from http://www.iucnredlist.org. (2017) Downloaded 16 Sep 2019"],
+  [1,],
+ 
+ [2.2,"Original OneZoom publication reference"],
+ [1.8,"Rosindell J and Harmon LJ"],
+ [1.8,"OneZoom: A Fractal Explorer for the Tree of Life"],
+ [1.8,"PLoS Biology DOI: 10.1371/journal.pbio.1001406 (2012)"],
+ 
+     [2,],
  
      [2,"A project based at Imperial College London"],
      [1,],
@@ -200,23 +218,6 @@ var creditsText =
  [2,"Duncan Gillies  ,  Laura Nunes  and  Yan Wong"],
  
      [2,],
- 
-     [3,"Data sources"],
-  [1,],
- [2.2,"Conservation status data"],
- [1.8,"The IUCN Red List of Threatened Species. Version 2017.3."],
- [1.8,"IUCN, Available from http://www.iucnredlist.org. (2017) Downloaded 16 Sep 2019"],
-  [1,],
- [2.2,"Mammal data"],
- [1.8,"Upham, N. S., J. A. Esselstyn, and W. Jetz."],
- [1.8,"Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation."],
- [1.8,"PLOS Biology (2019)"],
- [1,],
- 
- [2.2,"Original OneZoom publication reference"],
- [1.8,"Rosindell J and Harmon LJ"],
- [1.8,"OneZoom: A Fractal Explorer for the Tree of Life"],
- [1.8,"PLoS Biology DOI: 10.1371/journal.pbio.1001406 (2012)"],
  
   [2,],
     [2,"Please go to www.OneZoom.org/about.htm for further details"],
