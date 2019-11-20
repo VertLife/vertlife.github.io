@@ -6293,15 +6293,6 @@ function popup_more()
     }
 };
 
-function popup_twitter()
-{
-    if (!introlock)
-    {
-        justopened = false;
-        popuptext = "Follow us on Twitter";
-        draw2();
-    }
-};
 
 function popup_shape()
 {
@@ -6309,16 +6300,6 @@ function popup_shape()
     {
         justopened = false;
         popuptext = "Change fractal shape";
-        draw2();
-    }
-};
-
-function popup_facebook()
-{
-    if (!introlock)
-    {
-        justopened = false;
-        popuptext = "Like us on Facebook";
         draw2();
     }
 };
@@ -6820,18 +6801,6 @@ function Link2OZ()
         justopened = false;
         window.location.href = "http://www.onezoom.org";
 //        window.location.href = "./index.htm";
-    }
-}
-
-function Link2Logo1()
-{
-    if (!introlock)
-    {
-        justopened = false;
-        if (url_URL.indexOf('http') == 0)	
-        	window.location.href = url_URL;
-        else
-        	window.location.href = "https://" + url_URL;
     }
 }
 
