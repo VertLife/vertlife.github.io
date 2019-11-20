@@ -183,7 +183,8 @@ var creditsText =
      [3,"Data sources"],
  [2.2,"Mammal data"],
  [1.8,"Upham, N. S., J. A. Esselstyn, and W. Jetz."],
- [1.8,"Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation."],
+ [1.8,"Inferring the mammal tree: species-level sets of phylogenies "],
+ [1.8,"for questions in ecology, evolution, and conservation."],
  [1.8,"PLOS Biology (2019)"],
   [1,],
  [2.2,"Conservation status data"],
@@ -197,7 +198,7 @@ var creditsText =
  [1.8,"PLoS Biology DOI: 10.1371/journal.pbio.1001406 (2012)"],
  
      [2,],
- 
+
      [2,"A project based at Imperial College London"],
      [1,],
      [2,"Funded by the Natural Environment Reseach Council"],
