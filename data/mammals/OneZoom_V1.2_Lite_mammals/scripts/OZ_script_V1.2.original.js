@@ -6818,8 +6818,8 @@ function Link2OZ()
     if (!introlock)
     {
         justopened = false;
-//        window.location.href = "http://www.onezoom.org";
-        window.location.href = "./index.htm";
+        window.location.href = "http://www.onezoom.org";
+//        window.location.href = "./index.htm";
     }
 }
 
