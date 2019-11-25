@@ -44,9 +44,20 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 - <a href="mailto:nathan.upham@yale.edu,walter.jetz@yale.edu?Subject=Mammal%20tree%20collaboration" target="_top">Contact the authors</a> for collaboration if you require advance data.
 - All code for running analyses is available at [https://github.com/n8upham/MamPhy_v1](https://github.com/n8upham/MamPhy_v1)
 
-
 <hr class="with-margin" />
 
+## Ecological causes of speciation and species richness in the mammal tree of life
+#### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
+#### _bioRxiv_ [https://doi.org/10.1101/504803v2](https://doi.org/10.1101/504803v2)
+
+<br>
+
+<a href="http://doi.org/10.1101/504803v2" target="_blank"><img border="0" src="Fig1_wDR_wBAMMshifts_wVag_wDiur_wLat_newLabels_clean_smTop_flipped_newCol.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
+
+**Abstract**:
+Biodiversity is distributed unevenly from the poles to the equator, and among branches of the tree of life, yet how those patterns are related is unclear. We investigated global speciation-rate variation across crown Mammalia using a novel time-scaled phylogeny (N=5,911 species, ~70% with DNA), finding that trait- and latitude-associated speciation has caused uneven species richness among groups. We identify 24 branch-specific shifts in net diversification rates linked to ecological traits. Using time-slices to define clades, we show that speciation rates are a stronger predictor of clade richness than age. Mammals that are low dispersal or diurnal diversify the fastest, indicating roles for geographic and ecological speciation, respectively. Speciation is slower in tropical than extra-tropical lineages, consistent with evidence that longer tropical species durations underpin the latitudinal diversity gradient. These findings juxtapose modes of lineage diversification that are alternatively turnover-based, and thus non-adaptive, or persistence-based as associated with resource adaptations. 
+
+<hr class="with-margin" />
 
 ## Taxonomy
 
