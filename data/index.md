@@ -54,7 +54,9 @@ weight: 4
 **Click through** for taxon-specific content.
 
 |---
-| [Mammals](http://vertlife.github.io/data/mammals) | [Birds](http://vertlife.github.io/data/birds)
+| | 
+|---
+| [**Mammals**](http://vertlife.github.io/data/mammals) | [**Birds**](http://vertlife.github.io/data/birds)
 |:-:|:-:
 | <a href="http://vertlife.github.io/data/mammals"><img src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="400px" class="border"></a> | <a href="http://vertlife.github.io/data/birds"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="400px" class="border"></a>
 |---
