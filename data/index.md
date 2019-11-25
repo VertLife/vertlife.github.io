@@ -44,11 +44,11 @@ weight: 4
 |---
 | Mammals | Birds
 |:-:|:-:
-| <a href="http://vertlife.github.io/data/mammals" target="_blank"><img src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="400px" border="0"></a> | <a href="http://vertlife.github.io/data/birds" target="_blank"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="400px" border="5"></a>
+| <a href="http://vertlife.github.io/data/mammals"><img src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="400px" border="0"></a> | <a href="http://vertlife.github.io/data/birds"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="400px" border="5"></a>
 |---
 | **Amphibians** | **Squamates**
 |:-:|:-:
-| <a href="http://vertlife.github.io/data/amphibians" target="_blank"><img src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" border="5"></a> | <a href="http://vertlife.github.io/data/squamates" target="_blank"><img src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" border="5"></a>
+| <a href="http://vertlife.github.io/data/amphibians"><img src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" border="5"></a> | <a href="http://vertlife.github.io/data/squamates"><img src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" border="5"></a>
 |===
 
 
