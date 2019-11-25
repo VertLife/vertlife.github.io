@@ -59,6 +59,9 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 **Abstract**:
 Biodiversity is distributed unevenly from the poles to the equator, and among branches of the tree of life, yet how those patterns are related is unclear. We investigated global speciation-rate variation across crown Mammalia using a novel time-scaled phylogeny (N=5,911 species, ~70% with DNA), finding that trait- and latitude-associated speciation has caused uneven species richness among groups. We identify 24 branch-specific shifts in net diversification rates linked to ecological traits. Using time-slices to define clades, we show that speciation rates are a stronger predictor of clade richness than age. Mammals that are low dispersal or diurnal diversify the fastest, indicating roles for geographic and ecological speciation, respectively. Speciation is slower in tropical than extra-tropical lineages, consistent with evidence that longer tropical species durations underpin the latitudinal diversity gradient. These findings juxtapose modes of lineage diversification that are alternatively turnover-based, and thus non-adaptive, or persistence-based as associated with resource adaptations. 
 
+<br>
+<br>
+
 <hr class="with-margin" />
 
 ## Taxonomy
