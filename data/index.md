@@ -17,7 +17,7 @@ weight: 4
                 Taxa
             </a>
         </li>
-      <li role="presentation" class="active">
+      <li role="presentation">
       <a href="#tab-2-id" aria-controls="tab-2-id" role="tab" data-toggle="tab">
                 Phylogenies
             </a>
@@ -58,7 +58,8 @@ weight: 4
         </div>
         <div role="tabpanel" class="tab-pane" id="tab-1-id">
             <div class="container-fluid" markdown="1">
-### Tab 2 (Phylogenies) Content
+
+### Phylogenies
 ```
 echo "Here is some code.";
 ```
@@ -68,7 +69,7 @@ echo "Here is some code.";
         <div role="tabpanel" class="tab-pane" id="tab-2-id">
             <div class="container-fluid" markdown="1">
 
-### Tab 3 (Taxonomies) Content
+### Taxonomies
 
 |---
 | Default aligned | Left aligned | Center aligned | Right aligned
@@ -87,7 +88,7 @@ echo "Here is some code.";
         <div role="tabpanel" class="tab-pane" id="tab-3-id">
             <div class="container-fluid" markdown="1">
 
-### Tab 4 (Traits) Content
+### Traits
 1. Here
 2. is
     * a
