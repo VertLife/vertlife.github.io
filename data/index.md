@@ -44,11 +44,11 @@ weight: 4
 |---
 | Mammals | Birds
 |:-:|:-:
-| <a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="400px" style="float:right; margin-left: 1em"/></a> | <a href="http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html" target="_blank"><img border="5" src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="400px" style="float:right; margin-left: 1em"/> 
+| <a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="400px"></a> | <a href="http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html" target="_blank"><img border="5" src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="400px"></a>
 |---
 | **Amphibians** | **Squamates**
 |:-:|:-:
-| <a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="5" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" style="float:right; margin-left: 1em"/> | <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="5" src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" style="float:right; margin-left: 1em"/> 
+| <a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="5" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px"></a> | <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="5" src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px"></a>
 |===
 
 
