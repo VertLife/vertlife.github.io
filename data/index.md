@@ -4,13 +4,15 @@ title: Data
 weight: 4
 ---
 
+#### Here we provide information on our VertLife data products — as they go live.  
+
 <div class="panel panel-default">
 
 <!-- Nav tabs -->
     <ul class="nav nav-tabs" role="tablist">
 	  <li role="presentation" class="active">
       <a href="#tab-1-id" aria-controls="tab-1-id" role="tab" data-toggle="tab">
-                Phylogenies
+                Taxa
             </a>
         </li>
       <li role="presentation" class="active">
@@ -40,12 +42,32 @@ weight: 4
 echo "Here is some code.";
 ```
 
+#### Mammals
+
+**Citation**:
+Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
+
+<a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
+
+
+|---
+| Mammals | Birds
+|-|:-
+| First body part | Second cell 
+|---
+| Amphibians | Squamates
+|-|:-
+| First body part | Second cell 
+|===
+| Footer row
+
+
+
+
 </div> <!-- This close tag must be left aligned. -->
         </div>
         <div role="tabpanel" class="tab-pane" id="tab-2-id">
             <div class="container-fluid" markdown="1">
-
-
 ### Tab 2 (Phylogenies) Content
 ```
 echo "Here is some code.";
@@ -89,21 +111,11 @@ echo "Here is some code.";
 
 
 
-
 {::options parse_block_html="true" /}
 
-#### Here we provide information on our VertLife data products — as they go live.  
-
-### Quick Links
-
-* [Phylogenies](#phylogenies)
-* [Taxonomies](#taxonomies)
-* [Traits](#traits)
 
 <hr class="with-margin" />
 
-
-### Phylogenies
 
 #### Mammals: Ecological causes of uneven diversification and richness in the mammal tree of life
 
