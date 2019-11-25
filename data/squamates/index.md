@@ -9,7 +9,6 @@
 
 <br>
 
-
 <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="0" src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
 **Download data** on Dryad <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank">here</a>
