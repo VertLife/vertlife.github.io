@@ -5,7 +5,7 @@
 
 ## Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation
 #### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
-#### _PLoS Biology_ [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
+#### _PLoS Biology_ 2019, [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
 
 <br>
 
