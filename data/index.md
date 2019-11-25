@@ -4,6 +4,92 @@ title: Data
 weight: 4
 ---
 
+<div class="panel panel-default">
+
+<!-- Nav tabs -->
+    <ul class="nav nav-tabs" role="tablist">
+	  <li role="presentation" class="active">
+      <a href="#tab-1-id" aria-controls="tab-1-id" role="tab" data-toggle="tab">
+                Phylogenies
+            </a>
+        </li>
+      <li role="presentation" class="active">
+      <a href="#tab-2-id" aria-controls="tab-2-id" role="tab" data-toggle="tab">
+                Phylogenies
+            </a>
+        </li>
+        <li role="presentation">
+            <a href="#tab-3-id" aria-controls="tab-3-id" role="tab" data-toggle="tab">
+                Taxonomies
+            </a>
+        </li>
+        <li role="presentation">
+            <a href="#tab-4-id" aria-controls="tab-4-id" role="tab" data-toggle="tab">
+                Traits
+            </a>
+        </li>
+    </ul>
+
+<!-- Tab panes -->
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-1-id">
+            <div class="container-fluid" markdown="1">    
+
+### Tab 1 (Taxa) Content
+```
+echo "Here is some code.";
+```
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-2-id">
+            <div class="container-fluid" markdown="1">
+
+
+### Tab 2 (Phylogenies) Content
+```
+echo "Here is some code.";
+```
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-3-id">
+            <div class="container-fluid" markdown="1">
+
+### Tab 3 (Taxonomies) Content
+
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-4-id">
+            <div class="container-fluid" markdown="1">
+
+### Tab 4 (Traits) Content
+1. Here
+2. is
+    * a
+    * list
+
+
+</div> <!-- This close tag must be left aligned. --> 
+        </div> 
+    </div>
+</div>
+
+
+
+
 {::options parse_block_html="true" /}
 
 #### Here we provide information on our VertLife data products — as they go live.  
