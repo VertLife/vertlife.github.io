@@ -7,7 +7,17 @@
 #### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
 #### _PLoS Biology_ [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
 
-<br />
+<br>
+
+<h3>Explore the <b>new mammal tree of life</b>! </h3>
+
+<br>
+
+<div class="container">
+  <h3> Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, probabilistically reconstructed using molecular and fossil data for the first time (see full comparison to previous methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
+  
+  <iframe class="onezoom" width="90%" height="800" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
+</div>
 
 #### **Movies of the credible sets of Mammalia trees (sample of 100 trees each of 10,000 total)**   
    **Note:** Shown is the evolutionary uncertainty propagated into each credible set of trees, consisting of both age and topological variation. The gray bars on the right show the location of the 1813 imputed species (i.e., those missing DNA sequences, of 5911 species total).
@@ -17,14 +27,6 @@
 <img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="450"/>  |  <img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="450"/> 
 
 <br />
-
-<h3>Explore the <b>new mammal tree of life</b>! </h3>
-
-<div class="container">
-  <h3> Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, probabilistically reconstructed using molecular and fossil data for the first time (see full comparison to previous methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
-  
-  <iframe class="onezoom" width="90%" height="800" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
-</div>
 
 
 <a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
