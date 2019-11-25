@@ -157,6 +157,7 @@ Species are characterized by physiological, behavioral, and ecological attribute
     </div>
 </div>
 
+</body>
 
 ### **Citations**
 #### Mammals:
@@ -170,7 +171,6 @@ Species are characterized by physiological, behavioral, and ecological attribute
 ##### Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
 
 
-</body>
 
 
 
