@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="0" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="600px" style="float:right; margin-left: 1em"/>
+<a href="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" target="_blank"><img border="0" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
 **Supplementary files**:
 
