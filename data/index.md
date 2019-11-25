@@ -76,7 +76,7 @@ Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: spe
 
 <a href="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" target="_blank"><img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="300" style="float:right; margin-left: 1em"/></a>
 
-<a href="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.pdf" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="300px" style="float:right; margin-left: 1em"/></a>
+<a href="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="300px" style="float:right; margin-left: 1em"/></a>
 
 **Supplementary files**:
 
