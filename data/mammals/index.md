@@ -14,7 +14,7 @@
 <br>
 
 <div class="container">
-  <h3> Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, reconstructed using probabilistic methods, DNA sequences, and temporal fossil data (see full comparison to previous methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
+  <h3> Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, reconstructed using Bayesian inference methods, DNA sequences, and temporal fossil data (see full comparison to previous methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
   
   <iframe class="onezoom" width="90%" height="800" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
 </div>
@@ -33,7 +33,7 @@
 **Citation**:
 Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
 
-<a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
+<a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
 
 **Abstract**:
 Big, time-scaled phylogenies are fundamental to connecting evolutionary processes to modern biodiversity patterns. Yet inferring reliable phylogenetic trees for thousands of species involves numerous trade-offs that have limited their utility to comparative biologists. To establish a robust evolutionary timescale for all ~6000 living species of mammals, we developed credible sets of trees that capture root-to-tip uncertainty in topology and divergence times. Our ‘backbone-and-patch’ approach to tree-building applies a newly assembled 31-gene supermatrix to two levels of Bayesian inference: (i) backbone relationships and ages among major lineages, using fossil node- or tip-dating; and (ii) species-level ‘patch’ phylogenies with non-overlapping in-groups that each correspond to one representative lineage in the backbone. Species unsampled for DNA are either excluded (‘DNA-only’ trees) or imputed within taxonomic constraints using branch lengths drawn from local birth-death models (‘completed’ trees). Joining time-scaled patches to backbones results in species-level trees of extant Mammalia with all branches estimated under the same modeling framework, thereby facilitating rate comparisons among lineages as disparate as marsupials and placentals. We compare our phylogenetic trees to previous estimates of mammal-wide phylogeny and divergence times, finding that (i) node ages are broadly concordant among studies, and (ii) recent (tip-level) rates of speciation are estimated more accurately in our study than in previous ‘supertree’ approaches where unresolved nodes led to branch length artifacts. Credible sets of mammalian phylogenetic history are now available for download at http://vertlife.org/phylosubsets, enabling investigations of long-standing questions in comparative biology.
