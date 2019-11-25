@@ -54,7 +54,7 @@ weight: 4
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-2-id">
+        <div role="tabpanel" class="tab-pane" id="tab-1-id">
             <div class="container-fluid" markdown="1">
 ### Tab 2 (Phylogenies) Content
 ```
@@ -63,7 +63,7 @@ echo "Here is some code.";
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-3-id">
+        <div role="tabpanel" class="tab-pane" id="tab-2-id">
             <div class="container-fluid" markdown="1">
 
 ### Tab 3 (Taxonomies) Content
@@ -82,7 +82,7 @@ echo "Here is some code.";
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-4-id">
+        <div role="tabpanel" class="tab-pane" id="tab-3-id">
             <div class="container-fluid" markdown="1">
 
 ### Tab 4 (Traits) Content
