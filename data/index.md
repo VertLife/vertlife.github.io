@@ -52,11 +52,11 @@ weight: 4
 
 
 |---
-| Mammals | Birds
+| ### [Mammals](http://vertlife.github.io/data/mammals) | ### Birds
 |:-:|:-:
 | <a href="http://vertlife.github.io/data/mammals"><img src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="400px" class="border"></a> | <a href="http://vertlife.github.io/data/birds"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="400px" class="border"></a>
 |---
-| **Amphibians** | **Squamates**
+| ### **Amphibians** | ### **Squamates**
 |:-:|:-:
 | <a href="http://vertlife.github.io/data/amphibians"><img src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" class="border"></a> | <a href="http://vertlife.github.io/data/squamates"><img src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" class="border"></a>
 |===
