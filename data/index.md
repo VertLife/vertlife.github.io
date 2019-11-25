@@ -50,13 +50,8 @@ weight: 4
 |-|:-
 | <a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="0" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" style="float:right; margin-left: 1em"/> | <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="0" src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" style="float:right; margin-left: 1em"/> 
 |===
-| **Citations** 
-| Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
-| Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
-| Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1.
-	[https://www.nature.com/articles/s41559-018-0515-5](https://www.nature.com/articles/s41559-018-0515-5)
-| Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
-
+| **Citations**:Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803); Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html); Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1.
+	[https://www.nature.com/articles/s41559-018-0515-5](https://www.nature.com/articles/s41559-018-0515-5); Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
 
 
 </div> <!-- This close tag must be left aligned. -->
