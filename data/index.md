@@ -69,7 +69,7 @@ weight: 4
             <div class="container-fluid" markdown="1">
 ### Phylogenies
 
-#### Mammals
+#### [**Mammals**](http://vertlife.github.io/data/mammals)
 
 **Citation**:
 Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
@@ -89,7 +89,7 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 <br>
 <br>
 
-#### Amphibians
+#### [**Amphibians**](http://vertlife.github.io/data/amphibians)
 
 **Citation**:
 Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1.
@@ -108,7 +108,7 @@ Human activities continue to erode the tree of life, requiring us to prioritize 
 <br>
 <br>
 
-#### Squamates
+#### [**Squamates**](http://vertlife.github.io/data/squamates)
 
 **Citation**:
 Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
@@ -125,7 +125,7 @@ Macroevolutionary rates of diversification and anthropogenic extinction risk dif
 <br>
 <br>
 
-#### Birds
+#### [**Birds**](http://vertlife.github.io/data/birds)
 
 **Citation**:
 Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
