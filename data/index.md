@@ -4,7 +4,7 @@ title: Data
 weight: 4
 ---
 
-#### Here we provide information on our VertLife data products — as they go live.  
+### Here we provide information on our VertLife data products — as they go live.  
 
  <head>
     <style>
@@ -61,84 +61,29 @@ weight: 4
 | <a href="http://vertlife.github.io/data/amphibians"><img src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" class="border"></a> | <a href="http://vertlife.github.io/data/squamates"><img src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" class="border"></a>
 |===
 
-
 </div> <!-- This close tag must be left aligned. -->
         </div>
         <div role="tabpanel" class="tab-pane" id="tab-1-id">
             <div class="container-fluid" markdown="1">
 
 ### Phylogenies
-```
-echo "Here is some code.";
-```
-
-</div> <!-- This close tag must be left aligned. -->
-        </div>
-        <div role="tabpanel" class="tab-pane" id="tab-2-id">
-            <div class="container-fluid" markdown="1">
-
-### Taxonomies
-
-|---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-| Footer row
-
-</div> <!-- This close tag must be left aligned. -->
-        </div>
-        <div role="tabpanel" class="tab-pane" id="tab-3-id">
-            <div class="container-fluid" markdown="1">
-
-### Traits
-1. Here
-2. is
-    * a
-    * list
-
-
-</div> <!-- This close tag must be left aligned. --> 
-        </div> 
-    </div>
-</div>
-
-
-#### **Citations**: 
-##### Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
-##### Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
-##### Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1. [https://www.nature.com/articles/s41559-018-0515-5](https://www.nature.com/articles/s41559-018-0515-5)
-##### Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
-
-
-</body>
-
-
-
 
 #### Mammals: Ecological causes of uneven diversification and richness in the mammal tree of life
 
 **Citation**:
-Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
+Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
 
-<a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
+<a href="https://doi.org/10.1371/journal.pbio.3000494" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
 
 **Abstract**:
-The uneven distribution of species in the tree of life is rooted in unequal speciation and extinction among groups. Yet the causes of differential diversification are little known despite their relevance for sustaining biodiversity into the future. Here we investigate rates of species diversification across extant Mammalia, a compelling system that includes our own closest relatives. We develop a new phylogeny of nearly all ~6000 species using a 31-gene supermatrix and fossil node- and tip-dating approaches to establish a robust evolutionary timescale for mammals. Our findings link the causes of uneven modern species richness with ecologically-driven variation in diversification rates, including 24 detected rate shifts. Speciation rates are a stronger predictor of among-clade richness than clade age, countering claims of clock-like speciation in large phylogenies. Surprisingly, rate heterogeneity in recent radiations shows limited association with latitude, despite the well-known richness increase toward the equator. Instead, we find a deeper-time association where clades of high-latitude species have the highest speciation rates, suggesting that species durations are shorter outside than inside the tropics. At shallower timescales (i.e., young clades), diurnality and low vagility are both linked to greater speciation rates and extant richness. High turnover among small-ranged allopatric species may erase the signal of vagility in older clades, while diurnality may adaptively reduce competition and extinction. These findings highlight the underappreciated joint roles of ephemeral (turnover-based) and adaptive (persistence-based) diversification processes, which manifest as speciation gradients in recent and more ancient radiations to explain the evolution of mammal diversity.
+Big, time-scaled phylogenies are fundamental to connecting evolutionary processes to modern biodiversity patterns. Yet inferring reliable phylogenetic trees for thousands of species involves numerous trade-offs that have limited their utility to comparative biologists. To establish a robust evolutionary timescale for all ~6000 living species of mammals, we developed credible sets of trees that capture root-to-tip uncertainty in topology and divergence times. Our ‘backbone-and-patch’ approach to tree-building applies a newly assembled 31-gene supermatrix to two levels of Bayesian inference: (i) backbone relationships and ages among major lineages, using fossil node- or tip-dating; and (ii) species-level ‘patch’ phylogenies with non-overlapping in-groups that each correspond to one representative lineage in the backbone. Species unsampled for DNA are either excluded (‘DNA-only’ trees) or imputed within taxonomic constraints using branch lengths drawn from local birth-death models (‘completed’ trees). Joining time-scaled patches to backbones results in species-level trees of extant Mammalia with all branches estimated under the same modeling framework, thereby facilitating rate comparisons among lineages as disparate as marsupials and placentals. We compare our phylogenetic trees to previous estimates of mammal-wide phylogeny and divergence times, finding that (i) node ages are broadly concordant among studies, and (ii) recent (tip-level) rates of speciation are estimated more accurately in our study than in previous ‘supertree’ approaches where unresolved nodes led to branch length artifacts. Credible sets of mammalian phylogenetic history are now available for download at http://vertlife.org/phylosubsets, enabling investigations of long-standing questions in comparative biology.
 
 **Supplementary files**:
 
-- **Data downloads are unavailable while the article is under peer review**; once officially published the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
+- **Data downloads will be available on Dryad once the article is published**; also, the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
 - <a href="mailto:nathan.upham@yale.edu,walter.jetz@yale.edu?Subject=Mammal%20tree%20collaboration" target="_top">Contact the authors</a> for collaboration if you require advance data.
-- Any earlier downloads from [data.vertlife.org](http://data.vertlife.org) were based on an incorrect version of the mammal dataset and should not be used.
 
 <hr class="with-margin" />
-
 
 #### Amphibians: The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life
 
@@ -172,7 +117,11 @@ Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phyloge
 Abstract:
 Macroevolutionary rates of diversification and anthropogenic extinction risk differ vastly throughout the Tree of Life. This results in a highly heterogeneous distribution of Evolutionary distinctiveness (ED) and threat status among species. We examine the phylogenetic distribution of ED and threat status for squamates (amphisbaenians, lizards, and snakes) using fully-sampled phylogenies containing 9574 species and expert-based estimates of threat status for ~4000 species. We ask whether threatened species are more closely related than would be expected by chance and whether high-risk species represent a disproportionate amount of total evolutionary history. We found currently-assessed threat status to be phylogenetically clustered at broad level in Squamata, suggesting it is critical to assess extinction risks for close relatives of threatened lineages. Our findings show no association between threat status and ED, suggesting that future extinctions may not result in a disproportionate loss of evolutionary history. Lizards in degraded tropical regions (e.g., Madagascar, India, Australia, and the West Indies) seem to be at particular risk. A low number of threatened high-ED species in areas like the Amazon, Borneo, and Papua New Guinea may be due to a dearth of adequate risk assessments. It seems we have not yet reached a tipping point of extinction risk affecting a majority of species; 63% of the assessed species are not threatened and 56% are Least Concern. Nonetheless, our results show that immediate efforts should focus on geckos, iguanas, and chameleons, representing 67% of high-ED threatened species and 57% of Unassessed high-ED lineages.
 
-<hr class="with-margin" />
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-2-id">
+            <div class="container-fluid" markdown="1">
 
 ### Taxonomies
 
@@ -187,7 +136,11 @@ Logistical and planning support for this work came from the [NSF Vertlife Terres
 
 The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://mammaldiversity.org), an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
 
-<hr class="with-margin" />
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-3-id">
+            <div class="container-fluid" markdown="1">
 
 ### Traits
 
@@ -200,5 +153,27 @@ Hamish Wilman, Jonathan Belmaker, Jennifer Simpson, Carolina de la Rosa, Marcelo
 
 Abstract: 
 Species are characterized by physiological, behavioral, and ecological attributes that are all subject to varying evolutionary and ecological constraints and jointly determine their role and function in ecosystems. Attributes such as diet, foraging strata, foraging time, and body size, in particular, determine a large portion of the “Eltonian” niches of species. Here we present a global species-level compilation of these key attributes for all 9993 and 5400 extant bird and mammal species derived from key literature sources. Global handbooks and monographs allowed the consistent sourcing of attributes for most species. For diet and foraging stratum we followed a defined protocol to translate the verbal descriptions into standardized, semiquantitative information about relative importance of different categories. Together with body size (continuous) and activity time (categorical) this enables a much finer distinction of species’ foraging ecology than typical categorical guild assignments allow. Attributes lacking information for specific species were flagged, and interpolated values based on taxonomy were provided instead. The presented data set is limited by, among others, these select cases missing observed data, by errors and uncertainty in the expert assessment as presented in the literature, and by the lack of intraspecific information. However, the standardized and transparent nature and complete global coverage of the data set should support an array of potential studies in biogeography, community ecology, macroevolution, global change biology, and conservation. Potential uses include comparative work involving these traits as focal or secondary variables, ecological research on the trait or trophic structure of communities, or conservation science concerned with the loss of function among species or in ecosystems in a changing world. We hope that this publication will spur the sharing, collaborative curation, and extension of data to the benefit of a more integrative, rigorous, and global biodiversity science. 
+
+</div> <!-- This close tag must be left aligned. --> 
+        </div> 
+    </div>
+</div>
+
+
+### **Citations**
+#### Mammals:
+##### Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
+##### Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
+#### Birds:
+##### Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
+#### Amphibians:
+##### Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1. [https://www.nature.com/articles/s41559-018-0515-5](https://www.nature.com/articles/s41559-018-0515-5)
+#### Squamates:
+##### Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
+
+
+</body>
+
+
 
 
