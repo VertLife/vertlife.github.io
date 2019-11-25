@@ -63,9 +63,8 @@ weight: 4
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-1-id">
+        <div role="tabpanel" class="tab-pane" id="tab-2-id">
             <div class="container-fluid" markdown="1">
-
 ### Phylogenies
 
 #### Mammals: Ecological causes of uneven diversification and richness in the mammal tree of life
@@ -118,9 +117,8 @@ Macroevolutionary rates of diversification and anthropogenic extinction risk dif
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-2-id">
+        <div role="tabpanel" class="tab-pane" id="tab-3-id">
             <div class="container-fluid" markdown="1">
-
 ### Taxonomies
 
 #### Mammals: [The Mammal Diversity Database](https://mammaldiversity.org)
@@ -137,9 +135,8 @@ The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-3-id">
+        <div role="tabpanel" class="tab-pane" id="tab-4-id">
             <div class="container-fluid" markdown="1">
-
 ### Traits
 
 #### EltonTraits 1.0: Species-level foraging attributes of the world's birds and mammals
