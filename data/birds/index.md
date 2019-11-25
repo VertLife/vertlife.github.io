@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html" target="_blank"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
+<a href="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" target="_blank"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
 **Download data** on Nature <a href="https://www.nature.com/articles/nature11631#Sec7" target="_blank">here</a>
 
