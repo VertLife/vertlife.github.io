@@ -37,15 +37,13 @@ weight: 4
         <div role="tabpanel" class="tab-pane active" id="tab-1-id">
             <div class="container-fluid" markdown="1">    
 
-### Tab 1 (Taxa) Content
-```
-echo "Here is some code.";
-```
+### Tetrapod taxa 
+**Click through** for taxon-specific content.
+
 
 #### Mammals
 
-**Citation**:
-Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
+**Citation**: Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
 
 <a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
 
@@ -53,14 +51,13 @@ Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven di
 |---
 | Mammals | Birds
 |-|:-
-| First body part | Second cell 
+| <a href="http://doi.org/10.1101/504803" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="400px" style="float:right; margin-left: 1em"/></a> | <a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="0" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" style="float:right; margin-left: 1em"/> 
 |---
-| Amphibians | Squamates
+| **Amphibians** | **Squamates**
 |-|:-
-| First body part | Second cell 
+| <a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="0" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" style="float:right; margin-left: 1em"/> | <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="0" src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" style="float:right; margin-left: 1em"/> 
 |===
 | Footer row
-
 
 
 
