@@ -83,7 +83,6 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 - **Data downloads will be available on Dryad once the article is published**; also, the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](http://vertlife.org/phylosubsets/).
 - <a href="mailto:nathan.upham@yale.edu,walter.jetz@yale.edu?Subject=Mammal%20tree%20collaboration" target="_top">Contact the authors</a> for collaboration if you require advance data.
 
-<hr class="with-margin" />
 
 #### Amphibians: The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life
 
@@ -101,7 +100,6 @@ Human activities continue to erode the tree of life, requiring us to prioritize 
 - Download data via VertLife [here](https://data.vertlife.org/?basetree=amphibiantree&start_folder=download/).
 - Download data on Dryad [here](https://doi.org/10.5061/dryad.cc3n6j5).
 
-<hr class="with-margin" />
 
 #### Squamates: Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status
 
