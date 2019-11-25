@@ -155,16 +155,12 @@ var linkSet = {
     'leaf':
     [
      [-1,true,"Wikipedia","http://en.wikipedia.org/wiki/||genus||_||species||"],
-     [-1,true,"Discover Life","http://www.discoverlife.org/mp/20q?search=||genus||+||species||&burl=www.onezoom.org&btxt=Back+to+OneZoom&bi=www.onezoom.org/logos/OZ_logo.png"],
-      [-1,true,"EOL","http://www.eol.org/search?q=||genus||+||species||"],
       [-1,true,"Map of Life","http://mol.org/species/||genus||_||species||"]
      ],
     
     'node':
     [
      [-1,true,"Wikipedia","http://en.wikipedia.org/wiki/||name||"],
-     [-1,true,"Discover Life","http://www.discoverlife.org/mp/20q?search=||name||&burl=www.onezoom.org&btxt=Back+to+OneZoom&bi=www.onezoom.org/logos/OZ_logo.png"],
-     [-1,true,"EOL","http://www.eol.org/search?q=||name||"]
      ],
     
     //http://species.wikimedia.org/wiki/Sarracenia_minor
