@@ -74,9 +74,9 @@ weight: 4
 **Citation**:
 Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
 
-<a href="https://doi.org/10.1371/journal.pbio.3000494" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
+<img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="300" style="float:right; margin-left: 1em"/>
 
-
+<a href="https://doi.org/10.1371/journal.pbio.3000494" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="300px" style="float:right; margin-left: 1em"/></a>
 
 
 **Abstract**:
@@ -127,7 +127,7 @@ Macroevolutionary rates of diversification and anthropogenic extinction risk dif
 #### Birds
 
 **Citation**:
-- Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
+Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
 
 <a href="http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html" target="_blank"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
