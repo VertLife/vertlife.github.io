@@ -11,6 +11,9 @@ weight: 4
       img {
       border:1px solid black;
       }
+      td {
+  	  font-size: 40px
+	  }
     </style>
   </head>
   <body>
@@ -50,8 +53,6 @@ weight: 4
 ### Tetrapod taxa 
 **Click through** for taxon-specific content.
 
-<div style="font-size: 50px">
-
 |---
 | [Mammals](http://vertlife.github.io/data/mammals) | [Birds](http://vertlife.github.io/data/birds)
 |:-:|:-:
@@ -61,7 +62,7 @@ weight: 4
 |:-:|:-:
 | <a href="http://vertlife.github.io/data/amphibians"><img src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="400px" class="border"></a> | <a href="http://vertlife.github.io/data/squamates"><img src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="400px" class="border"></a>
 |===
-</div>
+
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
