@@ -14,7 +14,7 @@
 <br>
 
 <div class="container">
-  <h3> Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, probabilistically reconstructed using molecular and fossil data for the first time (see full comparison to previous methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
+  <h3> Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, reconstructed using probabilistic methods, DNA sequences, and temporal fossil data (see full comparison to previous methods <a href="http://doi.org/10.1101/504803" target="_blank">here</a>).</h3>
   
   <iframe class="onezoom" width="90%" height="800" src="http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
 </div>
