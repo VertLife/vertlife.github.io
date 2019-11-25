@@ -55,6 +55,7 @@ weight: 4
 
 |---
 | | 
+|:-:|:-:
 |---
 | [**Mammals**](http://vertlife.github.io/data/mammals) | [**Birds**](http://vertlife.github.io/data/birds)
 |:-:|:-:
