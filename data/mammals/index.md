@@ -9,6 +9,15 @@ incognito: true
 
 [**Back to Data main**](/data)
 
+ <head>
+    <style>
+      td {
+  	  font-size: 40px
+	  }
+    </style>
+  </head>
+  <body>
+  
 # Mammals
 
 ## Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation
@@ -30,25 +39,15 @@ incognito: true
 ### **Movies of the credible sets of Mammalia trees (sample of 100 trees each of 10,000 total)**   
 ####  Shown is the evolutionary uncertainty propagated into each credible set of trees, consisting of both age and topological variation. The gray bars on the right show the location of the 1813 imputed species (i.e., those missing DNA sequences, of 5911 species total).
 
- <head>
-    <style>
-      td {
-  	  font-size: 40px
-	  }
-    </style>
-  </head>
-  <body>
-
-
 |  Node-dated     |  Tip-dated
 :-------------------------:|:-------------------------:
 <img src="/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="550"/>  |  <img src="/data/credibleSet_mamPhy_Completed-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="550"/> 
 :-------------------------:|:-------------------------:
 <img src="/data/credibleSet_mamPhy_DNA-only-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="550"/>  |  <img src="/data/credibleSet_mamPhy_DNA-only-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="550"/> 
 
-<br />
+<br>
 
-</body>
+   </body>
 
 **Citation**:
 Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
