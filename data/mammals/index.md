@@ -24,9 +24,8 @@ incognito: true
 #### Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, reconstructed using probabilistic inference of molecular and fossil data for the first time (see full comparison to previous methods <a href="https://doi.org/10.1371/journal.pbio.3000494" target="_blank">here</a>).
   
   <iframe class="onezoom" width="100%" height="600" src="/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm"></iframe>
-</div>
 
-<br />
+<br>
 
 ### **Movies of the credible sets of Mammalia trees (sample of 100 trees each of 10,000 total)**   
 ####  Shown is the evolutionary uncertainty propagated into each credible set of trees, consisting of both age and topological variation. The gray bars on the right show the location of the 1813 imputed species (i.e., those missing DNA sequences, of 5911 species total).
@@ -64,6 +63,8 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 - **Data downloads will be available on Dryad once the article is published**; also, the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](/phylosubsets/).
 - <a href="mailto:nathan.upham@yale.edu,walter.jetz@yale.edu?Subject=Mammal%20tree%20collaboration" target="_top">Contact the authors</a> for collaboration if you require advance data.
 - All code for running analyses is available at [https://github.com/n8upham/MamPhy_v1](https://github.com/n8upham/MamPhy_v1)
+
+</div>
 
 <hr class="with-margin" />
 
