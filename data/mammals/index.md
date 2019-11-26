@@ -34,7 +34,7 @@ incognito: true
  <head>
     <style>
       td {
-  	  font-size: 25px
+  	  font-size: 40px
 	  }
     </style>
   </head>
@@ -48,6 +48,8 @@ incognito: true
 <img src="/data/credibleSet_mamPhy_DNA-only-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="550"/>  |  <img src="/data/credibleSet_mamPhy_DNA-only-FBDasZhouEtAl_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="550"/> 
 
 <br />
+
+</body>
 
 **Citation**:
 Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
