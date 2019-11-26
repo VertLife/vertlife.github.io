@@ -39,8 +39,7 @@ incognito: true
 <br>
 
 
-**Citation**:
-##### Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
+#### **Citation**: Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
 
 <a href="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="600px" style="float:right; margin-left: 1em"/></a>
 
