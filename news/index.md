@@ -13,7 +13,7 @@ News
 
 - [Mammal tree figure wins art prize](https://jetzlab.yale.edu/news/nathan-upham-announced-winner-art-research-competition) - June 12, 2019
 	
-	The winning image summarizes the tempo and relationships of evolutionary history across 5,911 species of living and recently extinct mammals globally, as reconstructed from DNA and fossil information. It forms figure 1 of a forthcoming publication by Upham, Esselstyn, and Jetz, which is currently available as a [pre-print on bioRxiv](https://www.biorxiv.org/content/10.1101/504803v2).
+	The winning image summarizes the tempo and relationships of evolutionary history across 5,911 species of living and recently extinct mammals globally, as reconstructed from DNA and fossil information. It forms figure 1 of a forthcoming publication by Upham, Esselstyn, and Jetz, which is currently available as a [pre-print on bioRxiv](https://www.biorxiv.org/content/10.1101/504803v2). 
 		
 - [VertLife Phylogeny Subsetter](https://vertlife.org/phylosubsets/) - April 2, 2018
 	
