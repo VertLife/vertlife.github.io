@@ -23,7 +23,7 @@ incognito: true
 - Nature E&E <a href="https://www.nature.com/articles/s41559-017-0448-4#Sec18" target="_blank">here</a>.
 - Taxonomic subsetting and download of trees [here](/phylosubsets/).
 
-Abstract:
+**Abstract**:
 In an era of accelerated biodiversity loss and limited conservation resources, systematic prioritization of species and places is essential. In terrestrial vertebrates, evolutionary distinctness has been used to identify species and locations that embody the greatest share of evolutionary history. We estimate evolutionary distinctness for a large marine vertebrate radiation on a dated taxon-complete tree for all 1,192 chondrichthyan fishes (sharks, rays and chimaeras) by augmenting a new 610-species molecular phylogeny using taxonomic constraints. Chondrichthyans are by far the most evolutionarily distinct of all major radiations of jawed vertebrates—the average species embodies 26 million years of unique evolutionary history. With this metric, we identify 21 countries with the highest richness, endemism and evolutionary distinctness of threatened species as targets for conservation prioritization. On average, threatened chondrichthyans are more evolutionarily distinct—further motivating improved conservation, fisheries management and trade regulation to avoid significant pruning of the chondrichthyan tree of life.
 
 <br>
