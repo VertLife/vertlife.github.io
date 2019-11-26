@@ -180,7 +180,7 @@ Species are characterized by physiological, behavioral, and ecological attribute
 ### **Citations**
 #### Mammals:
 - Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
-- Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of uneven diversification and richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803](https://doi.org/10.1101/504803)
+- Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Ecological causes of speciation and species richness in the mammal tree of life. bioRxiv:504803. [https://doi.org/10.1101/504803v3](https://doi.org/10.1101/504803v3)
 
 #### Birds:
 - Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
