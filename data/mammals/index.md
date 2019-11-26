@@ -65,7 +65,7 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 
 ## Ecological causes of speciation and species richness in the mammal tree of life
 #### Nathan S. Upham, Jacob A. Esselstyn, and Walter Jetz.
-#### _bioRxiv_ [https://doi.org/10.1101/504803v2](https://doi.org/10.1101/504803v2)
+#### _bioRxiv_ [https://doi.org/10.1101/504803v3](https://doi.org/10.1101/504803v3)
 - #### On Twitter <a href="https://twitter.com/n8_upham/status/1082317979776401409" target="_blank">here</a>
 
 <br>
