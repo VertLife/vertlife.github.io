@@ -50,7 +50,7 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 
 - **Dryad once the article is published** at [https://doi.org/10.5061/dryad.tb03d03](https://doi.org/10.5061/dryad.tb03d03).
 
-- Taxonomic subsetting and download of trees [here](/phylosubsets/).
+- Taxonomic subsetting and download of mammal trees [here](/phylosubsets/).
 
 - All code for running analyses will be available at [https://github.com/n8upham/MamPhy_v1](https://github.com/n8upham/MamPhy_v1)
 
