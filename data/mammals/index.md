@@ -17,7 +17,7 @@ incognito: true
 
 <br>
 
-<h2>Explore the <b>new mammal tree of life</b>! </h2>
+<h3>Explore the <b>new mammal tree of life</b>! </h3>
 
 <div class="container">
   <h4> Hosted here on OneZoom is the consensus tree of 5,911 species of mammals, reconstructed using probabilistic inference of molecular and fossil data for the first time (see full comparison to previous methods <a href="https://doi.org/10.1371/journal.pbio.3000494" target="_blank">here</a>).</h4>
