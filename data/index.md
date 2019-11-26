@@ -191,7 +191,8 @@ Species are characterized by physiological, behavioral, and ecological attribute
 #### Squamates:
 - Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
 
-
+#### Sharks:
+- Stein RW, Mull CG, Kuhn TS, Aschliman NC, Davidson LNK, Joy JB, Smith GJ, Dulvy NK, and Mooers AO. Global priorities for conserving the evolutionary history of sharks, rays and chimaeras. Nat Ecol Evol. 2018;2: 288–298. [http://dx.doi.org/10.1038/s41559-017-0448-4](http://dx.doi.org/10.1038/s41559-017-0448-4)
 
 
 
