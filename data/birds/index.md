@@ -1,3 +1,9 @@
+---
+layout: default
+title: Birds
+weight: 4
+incognito: true
+---
 
 {::options parse_block_html="true" /}
 
