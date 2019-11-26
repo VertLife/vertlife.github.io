@@ -48,9 +48,11 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 
 **Supplementary files**:
 
-- **Data downloads will be available on Dryad once the article is published** at [https://doi.org/10.5061/dryad.tb03d03](https://doi.org/10.5061/dryad.tb03d03); also, the mammal trees will available for taxonomic subsetting and download at [vertlife.org/phylosubsets/](/phylosubsets/).
+- **Dryad once the article is published** at [https://doi.org/10.5061/dryad.tb03d03](https://doi.org/10.5061/dryad.tb03d03).
 
-- All code for running analyses is available at [https://github.com/n8upham/MamPhy_v1](https://github.com/n8upham/MamPhy_v1)
+- Taxonomic subsetting and download of trees [here](/phylosubsets/).
+
+- All code for running analyses will be available at [https://github.com/n8upham/MamPhy_v1](https://github.com/n8upham/MamPhy_v1)
 
 - **MCC consensus trees of the DNA-only distributions:**  Consensus trees are only meaningful on our DNA-only distributions; completed trees are inappropriate for consensus since they contain taxonomically imputed species that vary in topological position within constraints (genus or family) across the credible set of trees.      
    
