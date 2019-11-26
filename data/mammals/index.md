@@ -48,14 +48,15 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 
 **Supplementary files**:
 
-- **Data downloads will be available on Dryad once the article is published**; also, the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](/phylosubsets/).
+- **Data downloads will be available on Dryad once the article is published** at [https://doi.org/10.5061/dryad.tb03d03](https://doi.org/10.5061/dryad.tb03d03); also, the mammal trees and ancillary data will available for download at [vertlife.org/phylosubsets/](/phylosubsets/).
 - <a href="mailto:nathan.upham@yale.edu,walter.jetz@yale.edu?Subject=Mammal%20tree%20collaboration" target="_top">Contact the authors</a> for collaboration if you require advance data.
 - All code for running analyses is available at [https://github.com/n8upham/MamPhy_v1](https://github.com/n8upham/MamPhy_v1)
 
 - **MCC consensus trees of the DNA-only distributions:**  Consensus trees are only meaningful on our DNA-only distributions; completed trees are inappropriate for consensus since they contain taxonomically imputed species that vary in topological position within constraints (genus or family) across the credible set of trees.      
-   -- Node-dated exponential, 4098 species, backbone estimated with 17 node calibrations: [pdf file](/data/S9_Fig.pdf?dl=1){:target="_blank"} (150 inches long) [Nexus file]()
    
-   -- Fossilized birth-death, 4098 species + 76 fossil tips, backbone topology as in Zhou et al. (2013): [pdf file](/data/S10_Fig.pdf?dl=1){:target="_blank"} (150 inches long) [Nexus file]()
+   -- Node-dated exponential, 4098 species, backbone estimated with 17 node calibrations: [pdf file](/data/S9_Fig.pdf?dl=1){:target="_blank"} (150 inches long); [Nexus file]()
+   
+   -- Fossilized birth-death, 4098 species + 76 fossil tips, backbone topology as in Zhou et al. (2013): [pdf file](/data/S10_Fig.pdf?dl=1){:target="_blank"} (150 inches long); [Nexus file]()
 
 
 </div>
