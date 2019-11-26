@@ -9,7 +9,7 @@ News
 
 - [Explore the new Mammalia tree of life](/data/mammals) - December 4, 2019
 	
-	In a new study [published in the journal PLOS Biology](https://doi.org/10.1371/journal.pbio.3000494), researchers at Yale University unveil a complete overhaul of the way species data is brought together and analyzed to construct an evolutionary tree of life for mammals. It’s aimed at giving scientists, conservation managers, policymakers, and environmentalists more accurate, comprehensive information about species diversity and relationships, past and present. More info [here](/data/mammals) and use the phylogeny subsetter tool [here](/phylosubsets/).
+	In a new study [published in the journal PLOS Biology](https://doi.org/10.1371/journal.pbio.3000494), researchers at Yale University unveil a complete overhaul of the way species data is brought together and analyzed to construct an evolutionary tree of life for mammals. It’s aimed at giving scientists, conservation managers, policymakers, and environmentalists more accurate, comprehensive information about species diversity and relationships, past and present. More info [here](/data/mammals). Download trees via the phylogeny subsetter tool [here](/phylosubsets/).
 
 - [Mammal tree figure wins art prize](https://jetzlab.yale.edu/news/nathan-upham-announced-winner-art-research-competition) - June 12, 2019
 	
