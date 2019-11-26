@@ -53,12 +53,12 @@ weight: 4
 **Click through** for taxon-specific content.
 
 |---
-| | | |
-|:-:|:-:|:-:|:-:
+| | | | |
+|:-:|:-:|:-:|:-:|:-:
 |---
-| [**Mammals**](http://vertlife.github.io/data/mammals) | [**Birds**](http://vertlife.github.io/data/birds) | [**Amphibians**](http://vertlife.github.io/data/amphibians) | [**Squamates**](http://vertlife.github.io/data/squamates)
-|:-:|:-:|:-:|:-:
-| <a href="http://vertlife.github.io/data/mammals"><img src="http://vertlife.github.io/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="250px" class="border"></a> | <a href="http://vertlife.github.io/data/birds"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="250px" class="border"></a> | <a href="http://vertlife.github.io/data/amphibians"><img src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="250px" class="border"></a> | <a href="http://vertlife.github.io/data/squamates"><img src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="250px" class="border"></a>
+| [**Mammals**](/data/mammals) | [**Birds**](/data/birds) | [**Amphibians**](/data/amphibians) | [**Squamates**](/data/squamates) | [**Sharks**](/data/sharks)
+|:-:|:-:|:-:|:-:|:-:
+| <a href="/data/mammals"><img src="/data/Fig1_NDexp_TopoCons_24Oct2018.jpg" height="200px" class="border"></a> | <a href="/data/birds"><img src="/data/JetzEtAl2012_birds_fig1.jpg" height="200px" class="border"></a> | <a href="/data/amphibians"><img src="/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="200px" class="border"></a> | <a href="/data/squamates"><img src="/images/Tonini_Fig1.jpg" height="200px" class="border"></a> | <a href="/data/sharks"><img src="/data/sharkTree_Fig1.jpg" height="200px" class="border"></a>
 |===
 
 
@@ -68,14 +68,14 @@ weight: 4
             <div class="container-fluid" markdown="1">
 ### Phylogenies
 
-#### [**Mammals**](http://vertlife.github.io/data/mammals)
+#### [**Mammals**](/data/mammals)
 
 **Citation**:
 Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
 
 <a href="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" target="_blank"><img src="http://vertlife.org/data/credibleSet_mamPhy_Completed-NDexp_100trees_all_higherNodeCols_tipLabel_v2_tipSeq.gif" width="300" style="float:right; margin-left: 1em"/></a>
 
-<a href="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" target="_blank"><img border="0" src="http://vertlife.github.io/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="300px" style="float:right; margin-left: 1em"/></a>
+<a href="/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" target="_blank"><img border="0" src="/data/Fig1_DR_onMamPhy_BDvr_pcsFIXED_NDexp_lagoOK_PLOS-oneLayer_190mm.jpg" height="300px" style="float:right; margin-left: 1em"/></a>
 
 **Supplementary files**:
 
@@ -88,13 +88,13 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 
 <hr>
 
-#### [**Amphibians**](http://vertlife.github.io/data/amphibians)
+#### [**Amphibians**](/data/amphibians)
 
 **Citation**:
 Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution:1.
 	[https://www.nature.com/articles/s41559-018-0515-5](https://www.nature.com/articles/s41559-018-0515-5)
 
-<a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="0" src="http://vertlife.github.io/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="600px" style="float:right; margin-left: 1em"/>
+<a href="https://www.nature.com/articles/s41559-018-0515-5" target="_blank"><img border="0" src="/images/Jetz-and-Pyron2018_Fig3_HTML.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
 **Supplementary files**:
 
@@ -107,28 +107,28 @@ Human activities continue to erode the tree of life, requiring us to prioritize 
 <br>
 <hr>
 
-#### [**Squamates**](http://vertlife.github.io/data/squamates)
+#### [**Squamates**](/data/squamates)
 
 **Citation**:
 Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation, online in advance of print. [http://dx.doi.org/10.1016/j.biocon.2016.03.039](http://dx.doi.org/10.1016/j.biocon.2016.03.039)
 
-<a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="0" src="http://vertlife.github.io/images/Tonini_Fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
+<a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank"><img border="0" src="/images/Tonini_Fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
 **Download data** on Dryad <a href="http://datadryad.org/resource/doi:10.5061/dryad.db005" target="_blank">here</a>
 
-**Link to squamate phylogeny gif** <a href="http://vertlife.github.io/images/Tonini_et_al.gif" target="_blank">here</a>
+**Link to squamate phylogeny gif** <a href="/images/Tonini_et_al.gif" target="_blank">here</a>
 
 Abstract:
 Macroevolutionary rates of diversification and anthropogenic extinction risk differ vastly throughout the Tree of Life. This results in a highly heterogeneous distribution of Evolutionary distinctiveness (ED) and threat status among species. We examine the phylogenetic distribution of ED and threat status for squamates (amphisbaenians, lizards, and snakes) using fully-sampled phylogenies containing 9574 species and expert-based estimates of threat status for ~4000 species. We ask whether threatened species are more closely related than would be expected by chance and whether high-risk species represent a disproportionate amount of total evolutionary history. We found currently-assessed threat status to be phylogenetically clustered at broad level in Squamata, suggesting it is critical to assess extinction risks for close relatives of threatened lineages. Our findings show no association between threat status and ED, suggesting that future extinctions may not result in a disproportionate loss of evolutionary history. Lizards in degraded tropical regions (e.g., Madagascar, India, Australia, and the West Indies) seem to be at particular risk. A low number of threatened high-ED species in areas like the Amazon, Borneo, and Papua New Guinea may be due to a dearth of adequate risk assessments. It seems we have not yet reached a tipping point of extinction risk affecting a majority of species; 63% of the assessed species are not threatened and 56% are Least Concern. Nonetheless, our results show that immediate efforts should focus on geckos, iguanas, and chameleons, representing 67% of high-ED threatened species and 57% of Unassessed high-ED lineages.
 
 <hr>
 
-#### [**Birds**](http://vertlife.github.io/data/birds)
+#### [**Birds**](/data/birds)
 
 **Citation**:
 Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The global diversity of birds in space and time. Nature 491:444–448. [http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html](http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html)
 
-<a href="http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html" target="_blank"><img src="http://vertlife.github.io/data/JetzEtAl2012_birds_fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
+<a href="http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html" target="_blank"><img src="/data/JetzEtAl2012_birds_fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
 **Download data** on Nature <a href="https://www.nature.com/articles/nature11631#Sec7" target="_blank">here</a>
 
@@ -147,7 +147,7 @@ Current global patterns of biodiversity result from processes that operate over 
 **Citation**:
 Burgin, C. J., J. P. Colella, P. L. Kahn, and N. S. Upham. 2018. How many species of mammals are there? Journal of Mammalogy 99:1–14. [https://academic.oup.com/jmammal/article/99/1/1/4834091](https://academic.oup.com/jmammal/article/99/1/1/4834091)
 
-<a href="https://academic.oup.com/jmammal/article/99/1/1/4834091" target="_blank"><img border="0" src="http://vertlife.github.io/images/BurginEtAl2018_Table1.jpg" height="250px" style="float:right; margin-left: 1em"/>
+<a href="https://academic.oup.com/jmammal/article/99/1/1/4834091" target="_blank"><img border="0" src="/images/BurginEtAl2018_Table1.jpg" height="250px" style="float:right; margin-left: 1em"/>
 
 Logistical and planning support for this work came from the [NSF Vertlife Terrestrial grant](http://vertlife.org/grant/) with development commissioned by the [American Society of Mammalogists](http://www.mammalsociety.org/about-asm).
 
