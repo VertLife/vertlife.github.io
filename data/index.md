@@ -130,10 +130,26 @@ Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and A. O. Mooers. 2012. The glob
 
 <a href="http://www.nature.com/nature/journal/v491/n7424/abs/nature11631.html" target="_blank"><img src="/data/JetzEtAl2012_birds_fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
 
-**Download data** on Nature <a href="https://www.nature.com/articles/nature11631#Sec7" target="_blank">here</a>
+**Download data** at Nature <a href="https://www.nature.com/articles/nature11631#Sec7" target="_blank">here</a>
 
 Abstract:
 Current global patterns of biodiversity result from processes that operate over both space and time and thus require an integrated macroecological and macroevolutionary perspective. Molecular time trees have advanced our understanding of the tempo and mode of diversification and have identified remarkable adaptive radiations across the tree of life. However, incomplete joint phylogenetic and geographic sampling has limited broad-scale inference. Thus, the relative prevalence of rapid radiations and the importance of their geographic settings in shaping global biodiversity patterns remain unclear. Here we present, analyse and map the first complete dated phylogeny of all 9,993 extant species of birds, a widely studied group showing many unique adaptations. We find that birds have undergone a strong increase in diversification rate from about 50 million years ago to the near present. This acceleration is due to a number of significant rate increases, both within songbirds and within other young and mostly temperate radiations including the waterfowl, gulls and woodpeckers. Importantly, species characterized with very high past diversification rates are interspersed throughout the avian tree and across geographic space. Geographically, the major differences in diversification rates are hemispheric rather than latitudinal, with bird assemblages in Asia, North America and southern South America containing a disproportionate number of species from recent rapid radiations. The contribution of rapidly radiating lineages to both temporal diversification dynamics and spatial distributions of species diversity illustrates the benefits of an inclusive geographical and taxonomical perspective. Overall, whereas constituent clades may exhibit slowdowns, the adaptive zone into which modern birds have diversified since the Cretaceous may still offer opportunities for diversification.
+
+<hr>
+
+#### [**Sharks**](/data/sharks)
+
+**Citation**:
+Stein RW, Mull CG, Kuhn TS, Aschliman NC, Davidson LNK, Joy JB, Smith GJ, Dulvy NK, and Mooers AO. Global priorities for conserving the evolutionary history of sharks, rays and chimaeras. Nat Ecol Evol. 2018;2: 288–298. [http://dx.doi.org/10.1038/s41559-017-0448-4](http://dx.doi.org/10.1038/s41559-017-0448-4)
+
+<a href="/data/sharkTree_Fig1.jpg" target="_blank"><img border="0" src="/data/sharkTree_Fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
+
+**Download data**:
+- Nature E&E <a href="https://www.nature.com/articles/s41559-017-0448-4#Sec18" target="_blank">here</a>.
+- Taxonomic subsetting and download of trees [here](/phylosubsets/).
+
+**Abstract**:
+In an era of accelerated biodiversity loss and limited conservation resources, systematic prioritization of species and places is essential. In terrestrial vertebrates, evolutionary distinctness has been used to identify species and locations that embody the greatest share of evolutionary history. We estimate evolutionary distinctness for a large marine vertebrate radiation on a dated taxon-complete tree for all 1,192 chondrichthyan fishes (sharks, rays and chimaeras) by augmenting a new 610-species molecular phylogeny using taxonomic constraints. Chondrichthyans are by far the most evolutionarily distinct of all major radiations of jawed vertebrates—the average species embodies 26 million years of unique evolutionary history. With this metric, we identify 21 countries with the highest richness, endemism and evolutionary distinctness of threatened species as targets for conservation prioritization. On average, threatened chondrichthyans are more evolutionarily distinct—further motivating improved conservation, fisheries management and trade regulation to avoid significant pruning of the chondrichthyan tree of life.
 
 
 </div> <!-- This close tag must be left aligned. -->
