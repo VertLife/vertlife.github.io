@@ -76,9 +76,7 @@ Big, time-scaled phylogenies are fundamental to connecting evolutionary processe
 Biodiversity is distributed unevenly from the poles to the equator, and among branches of the tree of life, yet how those patterns are related is unclear. We investigated global speciation-rate variation across crown Mammalia using a novel time-scaled phylogeny (N=5,911 species, ~70% with DNA), finding that trait- and latitude-associated speciation has caused uneven species richness among groups. We identify 24 branch-specific shifts in net diversification rates linked to ecological traits. Using time-slices to define clades, we show that speciation rates are a stronger predictor of clade richness than age. Mammals that are low dispersal or diurnal diversify the fastest, indicating roles for geographic and ecological speciation, respectively. Speciation is slower in tropical than extra-tropical lineages, consistent with evidence that longer tropical species durations underpin the latitudinal diversity gradient. These findings juxtapose modes of lineage diversification that are alternatively turnover-based, and thus non-adaptive, or persistence-based as associated with resource adaptations. 
 
 <br>
-<br>
-
-<hr class="with-margin" />
+<hr class="with-margin">
 
 ## Taxonomy
 
@@ -93,5 +91,18 @@ Logistical and planning support for this work came from the [NSF Vertlife Terres
 
 The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://mammaldiversity.org), an updatable and online database of mammal taxonomic and biodiversity information. This database aims to serve the global scientific community by providing the latest information on species-level and higher taxonomic changes, thereby promoting more rigorous study of mammalian biodiversity worldwide. The initial objective for this online database is to aggregate, curate, and compile new citations on species descriptions and taxonomic revisions into regular releases that are downloadable in comma-delimited format. Downstream goals include expanded hosting of ecological, trait, and taxonomic data, and an online forum for discussing mammalian taxonomy and systematics. 
 
+<br>
+<hr class="with-margin" />
+
+## Traits
+
+#### EltonTraits 1.0: Species-level foraging attributes of the world's birds and mammals
+
+[Ecological Archives E095-178](http://www.esapubs.org/archive/ecol/E095/178/)
+
+Citation: 
+Hamish Wilman, Jonathan Belmaker, Jennifer Simpson, Carolina de la Rosa, Marcelo M. Rivadeneira, and Walter Jetz. 2014. EltonTraits 1.0: Species-level foraging attributes of the world's birds and mammals. Ecology 95:2027. [http://dx.doi.org/10.1890/13-1917.1](http://dx.doi.org/10.1890/13-1917.1)
+
+<br>
 <hr class="with-margin" />
 
