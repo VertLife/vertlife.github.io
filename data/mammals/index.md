@@ -9,14 +9,6 @@ incognito: true
 
 [**Back to Data main**](/data)
 
- <head>
-    <style>
-      td {
-  	  font-size: 40px
-	  }
-    </style>
-  </head>
-  <body>
   
 # Mammals
 
@@ -47,7 +39,6 @@ incognito: true
 
 <br>
 
-   </body>
 
 **Citation**:
 ##### Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: species-level sets of phylogenies for questions in ecology, evolution, and conservation. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3000494](https://doi.org/10.1371/journal.pbio.3000494)
