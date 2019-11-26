@@ -86,8 +86,7 @@ Upham, N. S., J. A. Esselstyn, and W. Jetz. 2019. Inferring the mammal tree: spe
 **Abstract**:
 Big, time-scaled phylogenies are fundamental to connecting evolutionary processes to modern biodiversity patterns. Yet inferring reliable phylogenetic trees for thousands of species involves numerous trade-offs that have limited their utility to comparative biologists. To establish a robust evolutionary timescale for all ~6000 living species of mammals, we developed credible sets of trees that capture root-to-tip uncertainty in topology and divergence times. Our ‘backbone-and-patch’ approach to tree-building applies a newly assembled 31-gene supermatrix to two levels of Bayesian inference: (i) backbone relationships and ages among major lineages, using fossil node- or tip-dating; and (ii) species-level ‘patch’ phylogenies with non-overlapping in-groups that each correspond to one representative lineage in the backbone. Species unsampled for DNA are either excluded (‘DNA-only’ trees) or imputed within taxonomic constraints using branch lengths drawn from local birth-death models (‘completed’ trees). Joining time-scaled patches to backbones results in species-level trees of extant Mammalia with all branches estimated under the same modeling framework, thereby facilitating rate comparisons among lineages as disparate as marsupials and placentals. We compare our phylogenetic trees to previous estimates of mammal-wide phylogeny and divergence times, finding that (i) node ages are broadly concordant among studies, and (ii) recent (tip-level) rates of speciation are estimated more accurately in our study than in previous ‘supertree’ approaches where unresolved nodes led to branch length artifacts. Credible sets of mammalian phylogenetic history are now available for download at http://vertlife.org/phylosubsets, enabling investigations of long-standing questions in comparative biology.
 
-<br>
-<br>
+<hr>
 
 #### [**Amphibians**](http://vertlife.github.io/data/amphibians)
 
@@ -105,8 +104,7 @@ Jetz, W., and R. A. Pyron. 2018. The interplay of past diversification and evolu
 **Abstract**:
 Human activities continue to erode the tree of life, requiring us to prioritize research and conservation. Amphibians represent key victims and bellwethers of global change, and the need for action to conserve them is drastically outpacing knowledge. We provide a phylogeny incorporating nearly all extant amphibians (7,238 species). Current amphibian diversity is composed of both older, depauperate lineages and extensive, more recent tropical radiations found in select clades. Frog and salaman- der diversification increased strongly after the Cretaceous–Palaeogene boundary, preceded by a potential mass-extinction event in salamanders. Diversification rates of subterranean caecilians varied little over time. Biogeographically, the Afro- and Neotropics harbour a particularly high proportion of Gondwanan relicts, comprising species with high evolutionary distinctive- ness (ED). These high-ED species represent a large portion of the branches in the present tree: around 28% of all phylogenetic diversity comes from species in the top 10% of ED. The association between ED and imperilment is weak, but many species with high ED are now imperilled or lack formal threat status, suggesting opportunities for integrating evolutionary position and phylogenetic heritage in addressing the current extinction crisis. By providing a phylogenetic estimate for extant amphibians and identifying their threats and ED, we offer a preliminary basis for a quantitatively informed global approach to conserving the amphibian tree of life.
 
-<br>
-<br>
+<hr>
 
 #### [**Squamates**](http://vertlife.github.io/data/squamates)
 
@@ -122,8 +120,7 @@ Tonini JFR, Beard KH, Ferreira RB, Jetz W, Pyron RA (2016) Fully-sampled phyloge
 Abstract:
 Macroevolutionary rates of diversification and anthropogenic extinction risk differ vastly throughout the Tree of Life. This results in a highly heterogeneous distribution of Evolutionary distinctiveness (ED) and threat status among species. We examine the phylogenetic distribution of ED and threat status for squamates (amphisbaenians, lizards, and snakes) using fully-sampled phylogenies containing 9574 species and expert-based estimates of threat status for ~4000 species. We ask whether threatened species are more closely related than would be expected by chance and whether high-risk species represent a disproportionate amount of total evolutionary history. We found currently-assessed threat status to be phylogenetically clustered at broad level in Squamata, suggesting it is critical to assess extinction risks for close relatives of threatened lineages. Our findings show no association between threat status and ED, suggesting that future extinctions may not result in a disproportionate loss of evolutionary history. Lizards in degraded tropical regions (e.g., Madagascar, India, Australia, and the West Indies) seem to be at particular risk. A low number of threatened high-ED species in areas like the Amazon, Borneo, and Papua New Guinea may be due to a dearth of adequate risk assessments. It seems we have not yet reached a tipping point of extinction risk affecting a majority of species; 63% of the assessed species are not threatened and 56% are Least Concern. Nonetheless, our results show that immediate efforts should focus on geckos, iguanas, and chameleons, representing 67% of high-ED threatened species and 57% of Unassessed high-ED lineages.
 
-<br>
-<br>
+<hr>
 
 #### [**Birds**](http://vertlife.github.io/data/birds)
 
