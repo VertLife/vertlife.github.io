@@ -142,7 +142,7 @@ Current global patterns of biodiversity result from processes that operate over 
 **Citation**:
 Stein RW, Mull CG, Kuhn TS, Aschliman NC, Davidson LNK, Joy JB, Smith GJ, Dulvy NK, and Mooers AO. Global priorities for conserving the evolutionary history of sharks, rays and chimaeras. Nat Ecol Evol. 2018;2: 288–298. [http://dx.doi.org/10.1038/s41559-017-0448-4](http://dx.doi.org/10.1038/s41559-017-0448-4)
 
-<a href="/data/sharkTree_Fig1.jpg" target="_blank"><img border="0" src="/data/sharkTree_Fig1.jpg" height="600px" style="float:right; margin-left: 1em"/>
+<a href="/data/sharkTree_Fig1.jpg" target="_blank"><img border="0" src="/data/sharkTree_Fig1.jpg" height="400px" style="float:right; margin-left: 1em"/>
 
 **Download data**:
 - Nature E&E <a href="https://www.nature.com/articles/s41559-017-0448-4#Sec18" target="_blank">here</a>.
