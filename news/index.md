@@ -7,6 +7,10 @@ weight: 6
 News
 =================
 
+- [New species-level tree of life for Mammalia is published](/data/mammals) - December 4, 2019
+	
+	In a new study [published in the journal PLOS Biology](https://doi.org/10.1371/journal.pbio.3000494), researchers at Yale University unveil a complete overhaul of the way species data is brought together and analyzed to construct an evolutionary tree of life for mammals. It’s aimed at giving scientists, conservation managers, policymakers, and environmentalists more accurate, comprehensive information about species diversity and relationships, past and present. More info [here](/data/mammals).
+
 - [Mammal tree figure wins art prize](https://jetzlab.yale.edu/news/nathan-upham-announced-winner-art-research-competition) - June 12, 2019
 	
 	The winning image summarizes the tempo and relationships of evolutionary history across 5,911 species of living and recently extinct mammals globally, as reconstructed from DNA and fossil information. It forms figure 1 of a forthcoming publication by Upham, Esselstyn, and Jetz, which is currently available as a [pre-print on bioRxiv](https://www.biorxiv.org/content/10.1101/504803v2).
