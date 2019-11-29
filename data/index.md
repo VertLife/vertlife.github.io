@@ -49,7 +49,7 @@ weight: 4
         <div role="tabpanel" class="tab-pane active" id="tab-1-id">
             <div class="container-fluid" markdown="1">    
 
-### Tetrapod taxa 
+### Vertebrate taxa 
 **Click through** for taxon-specific content.
 
 |---
