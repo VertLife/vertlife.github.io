@@ -49,6 +49,9 @@ sources.
             <input type="radio" name="grpTaxa" id="grpTaxaBird" value="birdtree"> Birds
           </label>
           <label class="radio-inline">
+            <input type="radio" name="grpTaxa" id="grpTaxaMammal" value="mammaltree"> Mammals
+          </label>
+          <label class="radio-inline">
             <input type="radio" name="grpTaxa" id="grpTaxaShark" value="sharktree"> Sharks
           </label>
           <label class="radio-inline">
