@@ -23,6 +23,9 @@ be conducted with a large sample of trees.*
 them into the box to the right. 
   - _Alternatively_, download the [taxonomy file](https://data.vertlife.org/vertlife_taxonomies.csv) for your group
 and paste species names from the "Scientific" column.  
+
+	-- Link to the [direct data download page](https://data.vertlife.org), including full tree sets and higher-level taxonomy in some cases (e.g., [for Mammals](https://data.vertlife.org/mammaltree/taxonomy_mamPhy_5911species.csv))
+
   - _Please note_: If you have different names, you will have to resolve to the available list. 
 2. Choose a tree distribution (see paper for details).  
 3. Select the number of trees to download (defaults to minimum of 100)  
