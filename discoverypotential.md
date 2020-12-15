@@ -6,8 +6,7 @@ incognito: true
 ---
 
 
-Supporting Information accompanying 
-<br />M. R. Moura & W. Jetz: "Shortfalls and opportunities in terrestrial vertebrate species discovery". In press. Nature Ecology and Evolution
+Supporting Information accompanying M. R. Moura & W. Jetz: "Shortfalls and opportunities in terrestrial vertebrate species discovery". In press. Nature Ecology and Evolution
 ====================================
 
 
