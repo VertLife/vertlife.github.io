@@ -42,6 +42,11 @@ weight: 4
                 Traits
             </a>
         </li>
+        <li role="presentation">
+            <a href="#tab-5-id" aria-controls="tab-5-id" role="tab" data-toggle="tab">
+                Discovery Potential
+            </a>
+        </li>
     </ul>
 
 <!-- Tab panes -->
@@ -185,6 +190,32 @@ Hamish Wilman, Jonathan Belmaker, Jennifer Simpson, Carolina de la Rosa, Marcelo
 
 Abstract: 
 Species are characterized by physiological, behavioral, and ecological attributes that are all subject to varying evolutionary and ecological constraints and jointly determine their role and function in ecosystems. Attributes such as diet, foraging strata, foraging time, and body size, in particular, determine a large portion of the “Eltonian” niches of species. Here we present a global species-level compilation of these key attributes for all 9993 and 5400 extant bird and mammal species derived from key literature sources. Global handbooks and monographs allowed the consistent sourcing of attributes for most species. For diet and foraging stratum we followed a defined protocol to translate the verbal descriptions into standardized, semiquantitative information about relative importance of different categories. Together with body size (continuous) and activity time (categorical) this enables a much finer distinction of species’ foraging ecology than typical categorical guild assignments allow. Attributes lacking information for specific species were flagged, and interpolated values based on taxonomy were provided instead. The presented data set is limited by, among others, these select cases missing observed data, by errors and uncertainty in the expert assessment as presented in the literature, and by the lack of intraspecific information. However, the standardized and transparent nature and complete global coverage of the data set should support an array of potential studies in biogeography, community ecology, macroevolution, global change biology, and conservation. Potential uses include comparative work involving these traits as focal or secondary variables, ecological research on the trait or trophic structure of communities, or conservation science concerned with the loss of function among species or in ecosystems in a changing world. We hope that this publication will spur the sharing, collaborative curation, and extension of data to the benefit of a more integrative, rigorous, and global biodiversity science. 
+
+
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-5-id">
+            <div class="container-fluid" markdown="1">
+
+### Discovery Potential
+
+##### [View the new interactive map!](https://mol.org/patterns/discovery)
+##### [View more information](/data/discoverypotential)
+
+<br/>
+
+#### Shortfalls and opportunities in terrestrial vertebrate species discovery
+
+[Nature Ecology and Evolution](https://dx.doi.org/10.1038/s41559-021-01411-5)
+
+
+__Citation:__ 
+Moura, M.R. & W. Jetz, 2021. [https://dx.doi.org/10.1038/s41559-021-01411-5](https://dx.doi.org/10.1038/s41559-021-01411-5)
+
+__Abstract:__
+Much of biodiversity remains undiscovered, causing species and their functions to remain unrealized and potentially lost in ignorance. Here we use extensive species-level data in a time-to-event model framework to identify taxonomic and geographic discovery gaps in terrestrial vertebrates. Biological, environmental and sociological factors all affect discovery probability and together provide strong predictive ability for species discovery. Our model identifies distinct taxonomic and geographic unevenness in future discovery potential, with greatest opportunities for amphibians and reptiles, and for Neotropical and Indo-Malayan forests. Brazil, Indonesia, Madagascar and Colombia emerge as holding greatest discovery opportunities, with a quarter of potential discoveries estimated. These findings highlight the importance of international policy support for basic taxonomic research and the potential of quantitative models to aid species discovery.
+
 
 </div> <!-- This close tag must be left aligned. --> 
         </div> 
