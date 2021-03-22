@@ -9,6 +9,10 @@ incognito: true
 Supporting Information accompanying M. R. Moura & W. Jetz: "Shortfalls and opportunities in terrestrial vertebrate species discovery". In press. Nature Ecology and Evolution
 ====================================
 
+<br />
+
+[View the new interactive map!](https://mol.org/patterns/discovery)
+
 <br /> 
 
 #### [Downloads](#downloads)
