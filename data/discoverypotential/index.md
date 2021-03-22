@@ -11,7 +11,7 @@ Supporting Information accompanying M. R. Moura & W. Jetz: "Shortfalls and oppor
 
 <br />
 
-[View the new interactive map!](https://mol.org/patterns/discovery)
+### [View the new interactive map!](https://mol.org/patterns/discovery)
 
 <br /> 
 
