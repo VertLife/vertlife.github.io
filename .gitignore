@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 *.lock.old
 run.sh
+.DS_Store

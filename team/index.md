@@ -16,7 +16,7 @@ weight: 3
 
 |[David Wake](https://ib.berkeley.edu/labs/wake/wakelab.htm)	|  |  [Michelle Koo](http://mvz.berkeley.edu/Informatics_Lab.html)|  |   [Nate Upham](http://jetzlab.yale.edu/people/nathan-upham) |  |  [Tim Colston](http://maddreptiles.com)|  |  [Ajay Ranipeta](https://jetzlab.yale.edu/people/ajay-ranipeta)|  |  [Mario Ribeiro de Moura](https://mariormoura.wordpress.com/)|
 |:----:   |:----: |:----: |:----:   |:----: |:----: |:----:  |
-| <img src="http://vertlife.github.io/images/DBW.jpg" height="100" />  	|  | <img src="http://vertlife.github.io/images/Michelle.jpg" height="100" />  	|  | <img src="http://vertlife.github.io/images/Nate.jpg" height="100" /> |  | <img src="http://vertlife.github.io/images/Colston_guyana.jpg" height="100" />  	|  | <img src="https://mol.org/assets/img/team/ajay.png" height="100" />  	|  | <img src="https://mol.org/assets/img/team/mario.jpg" height="100" />  	|
+| <img src="http://vertlife.github.io/images/DBW.jpg" height="100" />  	|  | <img src="http://vertlife.github.io/images/Michelle.jpg" height="100" />  	|  | <img src="http://vertlife.github.io/images/Nate.jpg" height="100" /> |  | <img src="http://vertlife.github.io/images/Colston_guyana.jpg" height="100" />  	|  | <img src="https://mol.org/assets/img/team/ajay.png" height="100" />  	|  | <img src="/images/mario.jpg" height="100" />  	|
 | University of California,  	|  |  University of California,  	| |  Yale University | |  George Washington University  	| |  Yale University  	| |  Yale University  	|
 | Berkeley; Museum of  	|  | Berkeley; Museum of   	|  |  	|  |  	|
 | Vertebrate Zoology  	|  | Vertebrate Zoology  	|  |  	|  |  	|
