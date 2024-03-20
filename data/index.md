@@ -18,11 +18,26 @@ weight: 4
   </head>
   <body>
   
+<script>
+$(document).ready(function(){
+  var hash = window.location.hash;
+  console.log(hash)
+  // Try to find a nav-link with the hash
+  var hashNavLink = $("a[href='"+hash+"']");
+  // If there is no link with the hash, take default link
+      console.log(hashNavLink)
+  if (hashNavLink.length === 0) {
+    hashNavLink = $('a[href="#tab-1-id"]');
+  }
+
+  hashNavLink.click();
+  })
+</script>
 <div class="panel panel-default">
 
 <!-- Nav tabs -->
-    <ul class="nav nav-tabs" role="tablist">
-	  <li role="presentation" class="active">
+    <ul class="nav nav-tabs" id='mytabs' role="tablist">
+	  <li role="presentation" class='active'>
       <a href="#tab-1-id" aria-controls="tab-1-id" role="tab" data-toggle="tab">
                 Taxa
             </a>
@@ -38,12 +53,17 @@ weight: 4
             </a>
         </li>
         <li role="presentation">
-            <a href="#tab-4-id" aria-controls="tab-4-id" role="tab" data-toggle="tab">
-                Traits
+            <a href="#species-rates" aria-controls="tab-4-id"  role="tab" data-toggle="tab">
+                Species Rates
             </a>
         </li>
         <li role="presentation">
             <a href="#tab-5-id" aria-controls="tab-5-id" role="tab" data-toggle="tab">
+                Traits
+            </a>
+        </li>
+        <li role="presentation">
+            <a href="#tab-6-id" aria-controls="tab-6-id" role="tab" data-toggle="tab">
                 Discovery Potential
             </a>
         </li>
@@ -177,7 +197,50 @@ The ASM Biodiversity Committee stewards the [Mammal Diversity Database](https://
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-4-id">
+        <div role="tabpanel" class="tab-pane" id="species-rates">
+            <div class="container-fluid" markdown="1">
+### Species Rates
+
+We are providing tip rates associated with each of the VertLife phylogenetic frameworks. These include:
+
+ 
+
+1. Fair Proportion metric for assessing Evolutionary Distinctness, often abbreviated as ‘FP’ or ‘ED’ (Redding et al 2010)
+2. Equal Splits metric, often abbreviated as ‘ES’ (Redding et al 2006)
+3. The Species Diversification Rates metric, often abbreviated as DR or Tip DR, measuring speciation rates (Jetz et al 2012).
+
+ 
+
+Tip rates are tip level aggregates of trees’ interior branch structure and lengths. For each group, we ran calculations across 1,000 trees selected at random from the provided pseudo-posterior distributions and calculated a range of measures capturing averages and among-tree variation. These include Median, Harmonic Mean, Geometric Mean, Arithmetic Mean, Range, Variance, Standard Deviation, Coefficient of Variance, and lower and upper 95 percentiles. We plan to make these metrics available through the tree subset tools – see there for updates. Please make sure to cite the respective original tree references when using these data.
+
+                                                                            
+
+**References:**
+
+* Redding, D. W. & Mooers, A. O. (2006): Incorporating evolutionary measures into conservation prioritization. Conserv. Biol. 20, 1670–1678.
+
+* Redding, D.W., DeWolff, C.V., and Mooers, A.Ø. (2010). Evolutionary distinctiveness, threat status, and ecological oddity in primates. Conserv. Biol. 24, 1052–1058.
+
+* Jetz W, Thomas GH, Joy JB, Hartmann K, Mooers AO (2012). The global diversity of birds in space and time. Nature  491(7424):444-8.
+
+ 
+
+**Download data**:
+
+- Birds (Ericson): [DR](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-DR_birdsericson_1000.csv), [ES](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-ES_birdsericson_1000.csv), [FP](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-FP_birdsericson_1000.csv)
+- Birds (Hackett):  [DR](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-DR_birdshackett_1000.csv), [ES](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-ES_birdshackett_1000.csv), [FP](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-FP_birdshackett_1000.csv)
+- Mammals:  [DR](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-DR_mammals_1000.csv), [ES](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-ES_mammals_1000.csv), [FP](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-FP_mammals_1000.csv)
+- Amphibians: [DR](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-DR_amphibians_1000.csv), [ES](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-ES_amphibians_1000.csv), [FP](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-FP_amphibians_1000.csv)
+- Squamates:  [DR](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-DR_squamates_1000.csv), [ES](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-ES_squamates_1000.csv), [FP](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-FP_squamates_1000.csv)
+- Sharks:  [DR](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-DR_sharks_1000.csv), [ES](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-ES_sharks_1000.csv), [FP](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-FP_sharks_1000.csv)
+
+
+
+
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-5-id">
             <div class="container-fluid" markdown="1">
 ### Traits
 
@@ -195,7 +258,7 @@ Species are characterized by physiological, behavioral, and ecological attribute
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
-        <div role="tabpanel" class="tab-pane" id="tab-5-id">
+        <div role="tabpanel" class="tab-pane" id="tab-6-id">
             <div class="container-fluid" markdown="1">
 
 ### Discovery Potential

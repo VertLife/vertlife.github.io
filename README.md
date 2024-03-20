@@ -5,8 +5,8 @@ The VertLife website. This is a jekyll site that uses kramdown flavored markdown
 To run locally in a docker environment run: 
 
 ```
- docker run --rm \               
-  --volume="$PWD:/srv/jekyll:Z" \
+docker run --rm \
+  --volume="$PWD:/srv/jekyll" \
   -p 4000:4000 \
   jekyll/jekyll \
   jekyll serve --host 0.0.0.0
