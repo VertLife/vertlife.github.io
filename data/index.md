@@ -213,17 +213,6 @@ We are providing tip rates associated with each of the VertLife phylogenetic fra
 
 Tip rates are tip level aggregates of trees’ interior branch structure and lengths. For each group, we ran calculations across 1,000 trees selected at random from the provided pseudo-posterior distributions and calculated a range of measures capturing averages and among-tree variation. These include Median, Harmonic Mean, Geometric Mean, Arithmetic Mean, Range, Variance, Standard Deviation, Coefficient of Variance, and lower and upper 95 percentiles. We plan to make these metrics available through the tree subset tools – see there for updates. Please make sure to cite the respective original tree references when using these data.
 
-                                                                            
-
-**References:**
-
-* Redding, D. W. & Mooers, A. O. (2006): Incorporating evolutionary measures into conservation prioritization. Conserv. Biol. 20, 1670–1678.
-
-* Redding, D.W., DeWolff, C.V., and Mooers, A.Ø. (2010). Evolutionary distinctiveness, threat status, and ecological oddity in primates. Conserv. Biol. 24, 1052–1058.
-
-* Jetz W, Thomas GH, Joy JB, Hartmann K, Mooers AO (2012). The global diversity of birds in space and time. Nature  491(7424):444-8.
-
- 
 
 **Download data**:
 
@@ -235,6 +224,15 @@ Tip rates are tip level aggregates of trees’ interior branch structure and len
 - Sharks:  [DR](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-DR_sharks_1000.csv), [ES](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-ES_sharks_1000.csv), [FP](https://storage.cloud.google.com/data.vertlife.org/species-rates/tipRate_SUMMARY-FP_sharks_1000.csv)
 
 
+               
+
+**References:**
+
+* Redding, D. W. & Mooers, A. O. (2006): Incorporating evolutionary measures into conservation prioritization. Conserv. Biol. 20, 1670–1678.
+
+* Redding, D.W., DeWolff, C.V., and Mooers, A.Ø. (2010). Evolutionary distinctiveness, threat status, and ecological oddity in primates. Conserv. Biol. 24, 1052–1058.
+
+* Jetz W, Thomas GH, Joy JB, Hartmann K, Mooers AO (2012). The global diversity of birds in space and time. Nature  491(7424):444-8.
 
 
 
