@@ -11,6 +11,4 @@ incognito: true
 
 # Tetrapod Traits
 
-
-
-* **[Download supporting data](https://data.vertlife.org/traits/tetrapod_traits_DatabaseCSVFiles.zip)**
+## Coming soon
