@@ -243,6 +243,20 @@ Tip rates are tip level aggregates of trees’ interior branch structure and len
             <div class="container-fluid" markdown="1">
 ### Traits
 
+#### TetrapodTraits with phylogeny-based multiple imputation
+
+Citation: Moura, M.R., Ceron, K., Guedes, J.J.M., Chen-Zhao, R., Sica, Y.V., Hart, J., Dorman, W., Gonzalez-del-Pliego, P., Ranipeta, A., Catenazzi, A.., Werneck, F.P., Toledo, L.F., Upham, N.S., Tonini, J.F.R., Colston, T.J., Guralnick, R., Bowie, R.C.K., Pyron, R.A., Jetz, W. A phylogeny-informed characterisation of global tetrapod traits addresses data gaps and biases. BioRXiv, 2024, doi: 10.1101/2023.03.04.531098v3
+
+##### Supplementary Files:
+* Data download on Zenodo: https://zenodo.org/records/11303604
+* R code for data analysis: https://doi.org/10.5281/zenodo.10582070
+* Paper: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002658
+
+
+<a href="journal.pbio.3002658.g002.PNG" target="_blank"><img src="journal.pbio.3002658.g002.PNG" height="400px" style="float:right; margin-left: 1em"/>
+##### Abstract:
+Tetrapods (amphibians, reptiles, birds, and mammals) are model systems for global biodiversity science, but continuing data gaps, limited data standardisation, and ongoing flux in taxonomic nomenclature constrain integrative research on this group and potentially cause biased inference. We combined and harmonised taxonomic, spatial, phylogenetic, and attribute data with phylogeny-based multiple imputation to provide a comprehensive data resource (TetrapodTraits 1.0.0) that includes values, predictions, and sources for body size, activity time, micro- and macrohabitat, ecosystem, threat status, biogeography, insularity, environmental preferences, and human influence, for all 33,281 tetrapod species covered in recent fully sampled phylogenies. We assess gaps and biases across taxa and space, finding that shared data missing in attribute values increased with taxon-level completeness and richness across clades. Prediction of missing attribute values using multiple imputation revealed substantial changes in estimated macroecological patterns. These results highlight biases incurred by nonrandom missingness and strategies to best address them. While there is an obvious need for further data collection and updates, our phylogeny-informed database of tetrapod traits can support a more comprehensive representation of tetrapod species and their attributes in ecology, evolution, and conservation research.
+
 #### EltonTraits 1.0: Species-level foraging attributes of the world's birds and mammals
 
 [Ecological Archives E095-178](http://www.esapubs.org/archive/ecol/E095/178/)
