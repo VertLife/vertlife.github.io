@@ -35,7 +35,7 @@ sources.
 <div class="well well-sm">
   <p>
     <strong>Results taking longer than expected? </strong>
-    <br />Traffic volume may result in longer processing times. If you don't recieve an email with the completed subset trees within 24 hours, please <a href="mailto:support@vertlife.org">contact us</a>.
+    <br />Traffic volume may result in longer processing times. Please use the job ID and email to check the job status, when the job is completed there will be a link to download your trees. If you run into any issues please <a href="mailto:support@vertlife.org">contact us</a>.
   </p>
 </div>
 
@@ -78,7 +78,7 @@ sources.
         <label for="email" class="col-sm-5 control-label">Please provide your email address: </label>
         <div class="col-sm-7">
           <input type="text" class="form-control input-sm" name="email" id="email">
-          <p class="help-block"><em><strong>Note:</strong> Once completed, a link to the generated phylogeny subsets will be emailed to the address provided.</em></p>
+          <p class="help-block"><em><strong>Note:</strong> Please use your email address and job id to retrieve your trees.</em></p>
         </div>
       </div>
       <div class="form-group">
