@@ -105,7 +105,7 @@ sources.
     </form>
   </div>
   <hr />
-  <h4>Check the status of your job request here</h4>
+  <h4>Check the status and Download the results of your job request here</h4>
   <div>
     <div class="row">
       <div class="col-xs-4">
