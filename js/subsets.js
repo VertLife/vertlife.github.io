@@ -27,8 +27,8 @@ $('#btnGetTrees').click(function(event) {
     return false;
   }
 
-  // var url =  'https://tree-pruner-dot-map-of-life.appspot.com/api/prune';
-  var url =  'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/prune';
+  var url =  'https://tree-pruner-dot-map-of-life.appspot.com/api/prune';
+  // var url =  'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/prune';
   if (getURLParameter('debug') == 'true') {
     url =  'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/prune';
   }
@@ -65,8 +65,8 @@ $('#btnStatus').click(function(event) {
 });
 
 function checkJobStatus(email, job_id, statusObj) {
-  // var url = 'https://tree-pruner-dot-map-of-life.appspot.com/api/result';
-  var url = 'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/result';
+  var url = 'https://tree-pruner-dot-map-of-life.appspot.com/api/result';
+  // var url = 'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/result';
   if (getURLParameter('debug') == 'true') {
     url = 'https://tree-pruner-alpha-dot-map-of-life.appspot.com/api/result';
   }
